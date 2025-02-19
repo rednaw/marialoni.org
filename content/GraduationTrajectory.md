@@ -58,7 +58,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 12 Feb: student topic presentations
 * Wed, 19 Feb: no class
 * Wed, 26 Feb: Scientific Integrity - Martin Stokhof  
-* Wed, 5 March: How to write a MoL thesis (Aleksi Anttila, Daniel Otten,Sabina Dominguez Parrado )  
+* Wed, 5 March: How to write a MoL thesis (Aleksi Anttila, Daniel Otten, Sabina Dominguez Parrado)  
 * Wed, 12 March: no class
 * Wed, 19 March: no class
 * Wed, 26 March: no class 
