@@ -22,6 +22,30 @@ The program of the workshop consists of presentations by invited speakers.
 * [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest<br>
 * [Fabian Schlotterbeck](https://fabianschlotterbeck.github.io/) University of Tübingen<br>
 
+<center>
+  <hr class="bookcover"/>
+  <table>
+    <tbody>
+      <tr>
+        <td class="bookcover">
+          <a href="https://www.jacoporomoli.com/">
+            <img src="{{ site.baseurl }}/resources/jacopo.jpg" alt="jacopo.jpg" width="200">
+          </a>
+        </td>
+        <td>
+          &nbsp;&nbsp;&nbsp;
+        </td>
+        <td class="bookcover">
+          <a href="https://link.springer.com/book/10.1007/978-1-4471-4558-5">
+            <img src="{{ site.baseurl }}/resources/logic-and-structure.jpg" alt="logic-and-structure.jpg" width="200">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr class="bookcover"/>
+</center>
+
 ## Schedule
 TBA
 
