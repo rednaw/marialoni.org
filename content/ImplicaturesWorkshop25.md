@@ -6,7 +6,7 @@ permalink: ./ImplicaturesWorkshop25
 # TbiLLC 2025: Workshop on Implicatures
 
 <a href="https://events.illc.uva.nl/Tbilisi/Tbilisi2025/" target="_blank">
-  <img src="{{ site.baseurl }}/resources/tbilisi.jpeg" alt="tbilisi" width="10%" class="TbiLLC 2025"/>
+  <img src="{{ site.baseurl }}/resources/tbilisi.jpeg" alt="tbilisi" width="50%" class="TbiLLC 2025"/>
 </a>
 <hr/>
 
@@ -30,12 +30,13 @@ The program consists of presentations by invited speakers.
           </a>
         </td>
         <td>
-         Jacopo Romoli &nbsp;&nbsp;&nbsp;
+         [Jacopo Romoli](https://www.jacoporomoli.com/)  University of Düsseldorf &nbsp;&nbsp;&nbsp;
         </td>
         <td class="bookcover">
           <a href="https://link.springer.com/book/10.1007/978-1-4471-4558-5">
             <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="200">
           </a>
+          <p> [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest</p>
         </td>
          <td class="bookcover">
           <a href="https://www.jacoporomoli.com/">
