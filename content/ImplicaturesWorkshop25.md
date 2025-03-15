@@ -28,20 +28,22 @@ The program consists of presentations by invited speakers.
           <a href="https://www.jacoporomoli.com/">
             <img src="{{ site.baseurl }}/resources/Jacopo.jpg" alt="jacopo.jpg" width="200">
           </a>
+          <p> Jacopo Romoli, Düsseldorf</p>
         </td>
         <td>
-         [Jacopo Romoli](https://www.jacoporomoli.com/)  University of Düsseldorf &nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;
         </td>
         <td class="bookcover">
-          <a href="https://link.springer.com/book/10.1007/978-1-4471-4558-5">
+          <a href="https://www.adinacameliableotu.com/">
             <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="200">
           </a>
-          <p> [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest</p>
+          <p> Camelia Bleotu, Bucarest</p>
         </td>
          <td class="bookcover">
-          <a href="https://www.jacoporomoli.com/">
+          <a href="https://fabianschlotterbeck.github.io/">
             <img src="{{ site.baseurl }}/resources/Fabian.jpg" alt="Fabian.jpg" width="200">
           </a>
+           <p>Fabian Schlotterbeck, Tübingen </p>
         </td>
         <td>
           &nbsp;&nbsp;&nbsp;
