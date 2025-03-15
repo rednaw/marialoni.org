@@ -13,7 +13,7 @@ permalink: ./ImplicaturesWorkshop25
 The workshop, part of the [15th International Tbilisi Symposium on Language, Logic and Computation (TbILLC 2025)](https://events.illc.uva.nl/Tbilisi/Tbilisi2025/),
 brings together researchers working on implicatures and other pragmatic inferences from an experimental or theoretical perspective.<br>
 
-The program consists of presentations by invited speakers.
+## Invited speakers 
 
 * [Jacopo Romoli](https://www.jacoporomoli.com/)  University of Düsseldorf <img src="{{ site.baseurl }}/resources/Jacopo.jpg" alt="jacopo.jpg" width="60"><br>
 * <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="60"> [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest<br>
