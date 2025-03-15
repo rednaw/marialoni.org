@@ -4,8 +4,8 @@ layout: nomenu
 permalink: ./ImplicaturesWorkshop25
 ---
 
-<a href="https://www.illc.uva.nl" target="_blank">
-  <img src="{{ site.baseurl }}/style/tbilisi.jpeg" alt="ILLC logo" width="60%" class="illclogo"/>
+<a href="https://events.illc.uva.nl/Tbilisi/Tbilisi2025/" target="_blank">
+  <img src="{{ site.baseurl }}/resources/tbilisi.jpeg" alt="tbilisi" width="60%" class="TbiLLC 2025"/>
 </a>
 <hr/>
 
@@ -31,6 +31,7 @@ The program of the workshop consists of presentations by invited speakers.
           <a href="https://www.jacoporomoli.com/">
             <img src="{{ site.baseurl }}/resources/Jacopo.jpg" alt="jacopo.jpg" width="200">
           </a>
+          [Jacopo Romoli](https://www.jacoporomoli.com/)  University of Düsseldorf<br>
         </td>
         <td>
           &nbsp;&nbsp;&nbsp;
