@@ -19,6 +19,9 @@ The program of the workshop will consist of presentations by invited speakers.
 * [Jacopo Romoli](https://www.jacoporomoli.com/)  Univeristy of Düsseldorf<br>
 * [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest<br>
 * [Fabian Schlotterbeck](https://fabianschlotterbeck.github.io/) University of Tübingen<br>
- 
 
+## Schedule
+TBA
+
+### Organizers: Milica Denic, Maria Aloni, Sarah Zobel
 
