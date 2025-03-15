@@ -6,7 +6,7 @@ permalink: ./ImplicaturesWorkshop25
 # TbiLLC 2025: Workshop on Implicatures
 
 <a href="https://events.illc.uva.nl/Tbilisi/Tbilisi2025/" target="_blank">
-  <img src="{{ site.baseurl }}/resources/tbilisi.jpeg" alt="tbilisi" width="200%" class="TbiLLC 2025"/>
+  <img src="{{ site.baseurl }}/resources/tbilisi.jpeg" alt="tbilisi" width="50%" class="TbiLLC 2025"/>
 </a>
 <hr/>
 
