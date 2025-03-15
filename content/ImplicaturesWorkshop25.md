@@ -15,9 +15,9 @@ brings together researchers who are working on implicatures and other pragmatic 
 
 The program consists of presentations by invited speakers.
 
-* [Jacopo Romoli](https://www.jacoporomoli.com/)  University of Düsseldorf <img src="{{ site.baseurl }}/resources/Jacopo.jpg" alt="jacopo.jpg" width="200"><br>
-* <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="200"> [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest<br>
-* [Fabian Schlotterbeck](https://fabianschlotterbeck.github.io/) University of Tübingen  <img src="{{ site.baseurl }}/resources/Fabian.jpg" alt="Fabian.jpg" width="200"><br>
+* [Jacopo Romoli](https://www.jacoporomoli.com/)  University of Düsseldorf <img src="{{ site.baseurl }}/resources/Jacopo.jpg" alt="jacopo.jpg" width="20"><br>
+* <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="20"> [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest<br>
+* [Fabian Schlotterbeck](https://fabianschlotterbeck.github.io/) University of Tübingen  <img src="{{ site.baseurl }}/resources/Fabian.jpg" alt="Fabian.jpg" width="20"><br>
 
 <center>
   <hr class="bookcover"/>
