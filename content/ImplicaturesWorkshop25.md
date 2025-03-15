@@ -11,17 +11,23 @@ permalink: ./ImplicaturesWorkshop25
 
 # TbiLLC 2025: Workshop on Implicatures
 
-## About: The workshop is as part of the [15th International Tbilisi Symposium on Language, Logic and Computation (TbILLC 2025)](https://events.illc.uva.nl/Tbilisi/Tbilisi2025/). It 
+## About: 
+
+The workshop is as part of the [15th International Tbilisi Symposium on Language, Logic and Computation (TbILLC 2025)](https://events.illc.uva.nl/Tbilisi/Tbilisi2025/). It 
 brings together researchers who are working on implicatures and other pragmatic inferences from an experimental or theoretical perspective.<br>
 
-The program of the workshop will consist of presentations by invited speakers.
+The program of the workshop consists of presentations by invited speakers.
 
-* [Jacopo Romoli](https://www.jacoporomoli.com/)  Univeristy of Düsseldorf<br>
+* [Jacopo Romoli](https://www.jacoporomoli.com/)  University of Düsseldorf<br>
 * [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest<br>
 * [Fabian Schlotterbeck](https://fabianschlotterbeck.github.io/) University of Tübingen<br>
 
 ## Schedule
 TBA
 
-### Organizers: Milica Denic, Maria Aloni, Sarah Zobel
+### Organizers: 
+* [Milica Denic](https://sites.google.com/view/milicadenic/) (University of Geneva)
+* [Sarah Zobel](https://sarahzobel.net) (Humboldt University Berlin)
+* [Maria Aloni](https://www.marialoni.org) (University of Amsterdam)
+ 
 
