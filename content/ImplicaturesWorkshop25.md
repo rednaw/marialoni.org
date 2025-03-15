@@ -30,7 +30,7 @@ The program consists of presentations by invited speakers.
           </a>
         </td>
         <td>
-          &nbsp;&nbsp;&nbsp;
+         Jacopo Romoli &nbsp;&nbsp;&nbsp;
         </td>
         <td class="bookcover">
           <a href="https://link.springer.com/book/10.1007/978-1-4471-4558-5">
