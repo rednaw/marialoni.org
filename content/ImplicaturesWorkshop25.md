@@ -29,7 +29,7 @@ The program of the workshop consists of presentations by invited speakers.
       <tr>
         <td class="bookcover">
           <a href="https://www.jacoporomoli.com/">
-            <img src="{{ site.baseurl }}/resources/jacopo.jpg" alt="jacopo.jpg" width="200">
+            <img src="{{ site.baseurl }}/resources/Jacopo.jpg" alt="jacopo.jpg" width="200">
           </a>
         </td>
         <td>
@@ -37,8 +37,16 @@ The program of the workshop consists of presentations by invited speakers.
         </td>
         <td class="bookcover">
           <a href="https://link.springer.com/book/10.1007/978-1-4471-4558-5">
-            <img src="{{ site.baseurl }}/resources/logic-and-structure.jpg" alt="logic-and-structure.jpg" width="200">
+            <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="200">
           </a>
+        </td>
+         <td class="bookcover">
+          <a href="https://www.jacoporomoli.com/">
+            <img src="{{ site.baseurl }}/resources/Fabian.jpg" alt="Fabian.jpg" width="200">
+          </a>
+        </td>
+        <td>
+          &nbsp;&nbsp;&nbsp;
         </td>
       </tr>
     </tbody>
