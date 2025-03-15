@@ -11,7 +11,7 @@ permalink: ./ImplicaturesWorkshop25
 <hr/>
 
 The workshop, part of the [15th International Tbilisi Symposium on Language, Logic and Computation (TbILLC 2025)](https://events.illc.uva.nl/Tbilisi/Tbilisi2025/),
-brings together researchers who are working on implicatures and other pragmatic inferences from an experimental or theoretical perspective.<br>
+brings together researchers working on implicatures and other pragmatic inferences from an experimental or theoretical perspective.<br>
 
 The program consists of presentations by invited speakers.
 
