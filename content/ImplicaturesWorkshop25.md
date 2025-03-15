@@ -5,7 +5,7 @@ permalink: ./ImplicaturesWorkshop25
 ---
 
 <a href="https://www.illc.uva.nl" target="_blank">
-  <img src="{{ site.baseurl }}/style/illclogo.png" alt="ILLC logo" width="60%" class="illclogo"/>
+  <img src="{{ site.baseurl }}/style/tbilisi.jpeg" alt="ILLC logo" width="60%" class="illclogo"/>
 </a>
 <hr/>
 
