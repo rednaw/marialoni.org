@@ -19,40 +19,7 @@ The program consists of presentations by invited speakers.
 * <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="50"> [Camelia Bleotu](https://www.adinacameliableotu.com/) University of Bucarest<br>
 * [Fabian Schlotterbeck](https://fabianschlotterbeck.github.io/) University of Tübingen  <img src="{{ site.baseurl }}/resources/Fabian.jpg" alt="Fabian.jpg" width="50"><br>
 
-<center>
-  <hr class="bookcover"/>
-  <table>
-    <tbody>
-      <tr>
-        <td class="bookcover">
-          <a href="https://www.jacoporomoli.com/">
-            <img src="{{ site.baseurl }}/resources/Jacopo.jpg" alt="jacopo.jpg" width="200">
-          </a>
-          <p> Jacopo Romoli, Düsseldorf</p>
-        </td>
-        <td>
-          &nbsp;&nbsp;&nbsp;
-        </td>
-        <td class="bookcover">
-          <a href="https://www.adinacameliableotu.com/">
-            <img src="{{ site.baseurl }}/resources/Camelia.jpg" alt="Camelia.jpg" width="200">
-          </a>
-          <p> Camelia Bleotu, Bucarest</p>
-        </td>
-         <td class="bookcover">
-          <a href="https://fabianschlotterbeck.github.io/">
-            <img src="{{ site.baseurl }}/resources/Fabian.jpg" alt="Fabian.jpg" width="200">
-          </a>
-           <p>Fabian Schlotterbeck, Tübingen </p>
-        </td>
-        <td>
-          &nbsp;&nbsp;&nbsp;
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <hr class="bookcover"/>
-</center>
+
 
 ## Schedule
 TBA
