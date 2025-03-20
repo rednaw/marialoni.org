@@ -88,7 +88,15 @@ Simone Testino [Thomas Schindler, Simone Picenni]
 ### Wed, 23 April: Logic and Language
 
 Dorielle Lonke [Jelke Bloem, Pia Sommerauer]
+
+
 Yuan Ma [Maria Aloni, Tomasz Klochowicz]
+
+
 Yunchong Huang [Sandro Pezzelle, Gianni Barlarcchi]
+
+
 Francijn Keur [Raquel G. Alhama]
+
+
 Zhirui Chen [Martha Lewis]
