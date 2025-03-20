@@ -5,6 +5,8 @@ permalink: ./GradTraj24_25
 ---
 # Plenary MoL thesis presentations: April 2025 
 
+The presentations are schedules on **Wednesday, 5-7pm in room SP C1.112**
+
 ### Wed, 2 April: Logic and Mathematics
 
 Timo Franssen [Søren Knudstorp, Nick Bezhanishvili]
