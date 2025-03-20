@@ -11,17 +11,17 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.00-17.10 Timo Franssen [Søren Knudstorp, Nick Bezhanishvili]
 
-17.10-17.20 Stefano Volpe [Benno van den Berg]
+17.10-17.20 Tenyo Takahashi [Nick Bezhanishvili]
 
-17.20-17.30 Spyros Dialiatsis [Yurii Khomskii]
+17.20-17.30 Sarah Dukic [Nick Bezhanishvili, Rodrigo Almeida]  
 
 17.30-17.40 *Questions*
 
 17.40-17.45 *Break*
 
-17.45-17.55 Jonathan Osser [Benno Van den Berg, Ivan Di Liberti]
+17.45-17.55 Jonathan Osser [Benno van den Berg, Ivan Di Liberti]
 
-17.55-18.05 Tenyo Takahashi [Nick Bezhanishvili]
+17.55-18.05 Stefano Volpe [Benno van den Berg]  
 
 18.05-18.15 Bas Laarakker [Benno van den Berg, Daniël Otten]
 
@@ -29,7 +29,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.25-18.30 *Break*
 
-18.30-18.40 Sarah Dukic [Nick Bezhanishvili, Rodrigo Almeida]
+18.30-18.40 Spyros Dialiatsis [Yurii Khomskii] 
 
 18.40-18.50 Arnar Kristjánsson [Balder ten Cate]
 
@@ -39,19 +39,30 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 ### Wed, 9 April: Logic and Computation
 
-Lucrezia Mosconi [Ronald de Haan, Giovanni Sileno]
+17.00-17.10 Otto de Jong [Ronald de Haan]
 
-Kirti Singh [Ulle Endriss]
+17.10-17.20 Lucrezia Mosconi [Ronald de Haan, Giovanni Sileno]
 
-Otto de Jong [Ronald de Haan]
+17.20-17.30 Lorenz Hornung [Maria Aloni, Giovanni Sileno]
 
-Eshel Yaron [Malvin Gattinger]
+17.30-17.40 *Questions*
 
-Lorenz Hornung [Maria Aloni, Giovanni Sileno]
+17.40-17.45 *Break*
 
-Simon Chiu [Marianna Girlando, Malvin Gattinger]
+17.45-17.55 Kirti Singh [Ulle Endriss]
 
-Niccolò Carrivale [Rebecca Reiffenhäuser]
+17.55-18.05 Niccolò Carrivale [Rebecca Reiffenhäuser]
+
+18.05-18.15 *Questions*
+
+18.15-18.20 *Break*
+
+18.20-18.30 Eshel Yaron [Malvin Gattinger]
+
+18.30-18.40 Simon Chiu [Marianna Girlando, Malvin Gattinger]
+
+18.40-18.50 *Questions*
+ 
 
 ### Wed, 16 April: Logic and Philosophy 
 
@@ -79,7 +90,7 @@ Dorielle Lonke [Jelke Bloem, Pia Sommerauer]
 
 Yuan Ma [Maria Aloni, Tomasz Klochowicz]
 
-Yunchong Huang [Sandro Pezzelle, Gianni Barlarcchi]
+Yunchong Huang [Sandro Pezzelle, Gianni Barlacchi]
 
 Francijn Keur [Raquel G. Alhama]
 
