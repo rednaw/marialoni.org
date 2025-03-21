@@ -64,10 +64,10 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 26 March: no class 
 
 ### 5th Period 
-[Schedule of the MoL thesis presentations 24/25](https://www.marialoni.org/GradTraj24_25)
 * Wed, 2 April: Plenary MoL thesis presentations: Logic and Mathematics 
 * Wed, 9 April: Plenary MoL thesis presentations: Logic and Computation  
 * Wed, 16 April: Plenary MoL thesis presentations: Logic and Philosophy 
 * Wed, 23 April: Plenary MoL thesis presentations: Logic and Language
-  
+
+[Schedule of the MoL thesis presentations 24/25](https://www.marialoni.org/GradTraj24_25)
  
