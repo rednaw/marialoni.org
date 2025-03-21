@@ -112,4 +112,4 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.15-18.25 *Questions*
 
-18.00-18.10 *Questions*
+[Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory)
