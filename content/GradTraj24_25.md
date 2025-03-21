@@ -100,12 +100,16 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.10-17.20 Yuan Ma [Maria Aloni,Tomasz Klochowicz]
 
-17.20-17.30 *Questions*
+17.20-17.30 Morgane Ziegler [Maria Aloni]  
 
-17.30-17.40 Yunchong Huang [Sandro Pezzelle, Gianni Barlacchi]
+17.30-17.40 *Questions* 
 
-17.40-17.50 Francijn Keur [Raquel G. Alhama]
+17.45-17.55 Yunchong Huang [Sandro Pezzelle, Gianni Barlacchi]
 
-17.50-18.00 Zhirui Chen [Martha Lewis]
+17.55-18.05 Francijn Keur [Raquel G. Alhama]
+
+18.05-18.15 Zhirui Chen [Martha Lewis]
+
+18.15-18.25 *Questions*
 
 18.00-18.10 *Questions*
