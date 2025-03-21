@@ -66,32 +66,46 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 ### Wed, 16 April: Logic and Philosophy 
 
-Simeon du Toit [Karolina Krzyzanowska, Henk van den Belt] 
+17.00-17.10 Simeon du Toit [Karolina Krzyzanowska, Henk van den Belt] 
 
-Orestis Dimou Belegratis [Luca Incurvati]
+17.10-17.20 Orestis Dimou Belegratis [Luca Incurvati]
 
-Kira Miller [Tom Schoonen]
+17.20-17.30 Kira Miller [Tom Schoonen]
 
-Clara Riedmiller [Erman Acar, Giorgio Sbardolini]
+17.30-17.40 *Questions*
 
-Minzhe Li [Sebastian De Haro, Benno van den Berg]
+17.40-17.45 *Break*
 
-Fangjing Xiong [Albert Visser, Dick de Jongh]
+17.45-17.55 Clara Riedmiller [Erman Acar, Giorgio Sbardolini]
 
-Ruiting Jiang [Thomas Schindler]
+17.55-18.05 Minzhe Li [Sebastian De Haro, Benno van den Berg]
 
-Klarise Marais [Aybüke Özgün, Alexandru Baltag]
+18.05-18.15 Fangjing Xiong [Albert Visser, Dick de Jongh]
 
-Simone Testino [Thomas Schindler, Simone Picenni]
+18.15-18.25 *Questions*
+
+18.25-18.30 *Break*
+
+18.30-18.40 Ruiting Jiang [Thomas Schindler]
+
+18.40-18.50 Klarise Marais [Aybüke Özgün, Alexandru Baltag]
+
+18.50-19.00 Simone Testino [Thomas Schindler, Simone Picenni]
+
+19.00-19.10 *Questions*
 
 ### Wed, 23 April: Logic and Language
 
-Dorielle Lonke [Jelke Bloem, Pia Sommerauer]
+17.00-17.10 Dorielle Lonke [Jelke Bloem, Pia Sommerauer]
 
-Yuan Ma [Maria Aloni, Tomasz Klochowicz]
+17.10-17.20 Yuan Ma [Maria Aloni,Tomasz Klochowicz]
 
-Yunchong Huang [Sandro Pezzelle, Gianni Barlacchi]
+17.20-17.30 *Questions*
 
-Francijn Keur [Raquel G. Alhama]
+17.30-17.40 Yunchong Huang [Sandro Pezzelle, Gianni Barlacchi]
 
-Zhirui Chen [Martha Lewis]
+17.40-17.50 Francijn Keur [Raquel G. Alhama]
+
+17.50-18.00 Zhirui Chen [Martha Lewis]
+
+18.00-18.10 *Questions*
