@@ -60,7 +60,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.45-17.55 Kirti Singh [Ulle Endriss]
 
-17.55-18.05 Niccolò Carrivale [Rebecca Reiffenhäuser]
+17.55-18.05 Niccolò Carrivale [Rebecca Reiffenhäuser] (online)
 
 18.05-18.15 *Questions & Break*
 
@@ -105,7 +105,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.00-17.10 Dorielle Lonke [Jelke Bloem, Pia Sommerauer]
 
-17.10-17.20 Yuan Ma [Maria Aloni,Tomasz Klochowicz]
+17.10-17.20 Yuan Ma [Maria Aloni, Tomasz Klochowicz]
 
 17.20-17.30 Morgane Ziegler [Maria Aloni]  
 
