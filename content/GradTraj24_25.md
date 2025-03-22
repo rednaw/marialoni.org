@@ -5,7 +5,7 @@ permalink: ./GradTraj24_25
 ---
 # Plenary MoL thesis presentations: April 2025 
 
-The presentations, part of the [MoL Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory), are schedules on **Wednesday, starting at 5pm in room SP C1.112**
+The presentations, part of the [MoL Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory), are schedules on **Wednesday, starting at 5pm in room SP C1.112 and zoom** [https://uva-live.zoom.us/j/84328320984](https://uva-live.zoom.us/j/84328320984)
 
 ### Wed, 2 April: Logic and Mathematics
 
