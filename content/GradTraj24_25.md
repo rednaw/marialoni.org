@@ -53,15 +53,13 @@ The presentations, part of the [MoL Graduation Trajectory](https://www.marialoni
 
 17.55-18.05 Niccolò Carrivale [Rebecca Reiffenhäuser]
 
-18.05-18.15 *Questions*
+18.05-18.15 *Questions & Break*
 
-18.15-18.20 *Break*
+18.15-18.25 Eshel Yaron [Malvin Gattinger]
 
-18.20-18.30 Eshel Yaron [Malvin Gattinger]
+18.25-18.35 Simon Chiu [Marianna Girlando, Malvin Gattinger]
 
-18.30-18.40 Simon Chiu [Marianna Girlando, Malvin Gattinger]
-
-18.40-18.50 *Questions*
+18.35-18.45 *Questions*
  
 
 ### Wed, 16 April: Logic and Philosophy 
@@ -104,12 +102,17 @@ The presentations, part of the [MoL Graduation Trajectory](https://www.marialoni
 
 17.30-17.40 *Questions* 
 
+17.40-17.45 *Break*
+
 17.45-17.55 Yunchong Huang [Sandro Pezzelle, Gianni Barlacchi]
 
 17.55-18.05 Francijn Keur [Raquel G. Alhama]
 
-18.05-18.15 Zhirui Chen [Martha Lewis]
+18.05-18.15 *Questions & Break* 
 
-18.15-18.25 *Questions*
+18.15-18.25 Zhirui Chen [Martha Lewis]
 
+18.25-18.35 Josef von Hoffmann [Søren Knudstorp, Nick Bezhanishvili]
+
+18.35-18.45 *Questions* 
  
