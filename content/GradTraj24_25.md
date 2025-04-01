@@ -16,35 +16,36 @@ permalink: ./GradTraj24_25
 The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.112 and zoom** [https://uva-live.zoom.us/j/84328320984](https://uva-live.zoom.us/j/84328320984)
 
 
-### Wed, 2 April: Logic and Mathematics
+### Wed, 2 April: Logic and Mathematics (uopdated)
+[NB: We will start 15 minutes later because of an overlap with the LLAMA seminar]
 
-17.00-17.10 Timo Franssen [Søren Knudstorp, Nick Bezhanishvili]
+17.15-17.25 Timo Franssen [Søren Knudstorp, Nick Bezhanishvili]
 
-17.10-17.20 Tenyo Takahashi [Nick Bezhanishvili]
+17.25-17.35 Tenyo Takahashi [Nick Bezhanishvili]
 
-17.20-17.30 Sarah Dukic [Nick Bezhanishvili, Rodrigo Almeida]  
+17.35-17.45 Sarah Dukic [Nick Bezhanishvili, Rodrigo Almeida]  
 
-17.30-17.40 *Questions*
+17.45-17.55 *Questions*
 
-17.40-17.45 *Break*
+17.55-18.00 *Break*
 
-17.45-17.55 Jonathan Osser [Benno van den Berg, Ivan Di Liberti]
+18.00-18.10 Jonathan Osser [Benno van den Berg, Ivan Di Liberti]
 
-17.55-18.05 Stefano Volpe [Benno van den Berg]  
+18.10-18.20 Stefano Volpe [Benno van den Berg]  
 
-18.05-18.15 Bas Laarakker [Benno van den Berg, Daniël Otten]
+18.20-18.30 Bas Laarakker [Benno van den Berg, Daniël Otten]
 
-18.15-18.25 *Questions*
+18.30-18.40 *Questions*
 
-18.25-18.30 *Break*
+18.40-18.45 *Break*
 
-18.30-18.40 Spyros Dialiatsis [Yurii Khomskii] 
+18.45-18.55 Spyros Dialiatsis [Yurii Khomskii] 
 
-18.40-18.50 Arnar Kristjánsson [Balder ten Cate]
+18.55-19.05 Arnar Kristjánsson [Balder ten Cate]
 
-18.50-19.00 Twan Kroll [Guido Schaefer]
+19.05-19.15 Twan Kroll [Guido Schaefer]
 
-19.00-19.10 *Questions*
+19.15-19.25 *Questions*
 
 ### Wed, 9 April: Logic and Computation
 
@@ -97,9 +98,8 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.40-18.50 Klarise Marais [Aybüke Özgün, Alexandru Baltag]
 
-18.50-19.00 Simone Testino [Thomas Schindler, Simone Picenni]
+18.50-19.00 *Questions*  
 
-19.00-19.10 *Questions*
 
 ### Wed, 23 April: Logic and Language
 
