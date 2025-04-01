@@ -16,7 +16,7 @@ permalink: ./GradTraj24_25
 The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.112 and zoom** [https://uva-live.zoom.us/j/84328320984](https://uva-live.zoom.us/j/84328320984)
 
 
-### Wed, 2 April: Logic and Mathematics (uopdated)
+### Wed, 2 April: Logic and Mathematics (updated)
 [NB: We will start 15 minutes later because of an overlap with the LLAMA seminar]
 
 17.15-17.25 Timo Franssen [Søren Knudstorp, Nick Bezhanishvili]
