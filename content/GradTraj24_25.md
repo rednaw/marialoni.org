@@ -76,7 +76,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.00-17.10 Simeon du Toit [Karolina Krzyzanowska, Henk van den Belt] 
 
-17.10-17.20 Orestis Dimou Belegratis [Luca Incurvati] (cancelled)
+17.10-17.20 Orestis Dimou Belegratis [Luca Incurvati] (postponed)
 
 17.20-17.30 Kira Miller [Tom Schoonen] (online)
 
@@ -123,5 +123,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.25-18.35 Josef von Hoffmann [Søren Knudstorp, Nick Bezhanishvili]
 
-18.35-18.45 *Questions* 
+18.35-18.45 Orestis Dimou Belegratis [Luca Incurvati]
+
+18.45-18.55 *Questions* 
  
