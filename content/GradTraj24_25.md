@@ -107,7 +107,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.10-17.20 Yuan Ma [Maria Aloni, Tomasz Klochowicz]
 
-17.20-17.30 Morgane Ziegler [Maria Aloni]  
+17.20-17.30 Morgane Ziegler [Maria Aloni]  (cancelled)
 
 17.30-17.40 *Questions* 
 
