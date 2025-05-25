@@ -9,7 +9,7 @@ permalink: ./publications
 * M Aloni. Nothing is Logical (with overview of recent experiments), [slides](resources/BielefeldMay25.pdf)
 Linguistics Colloquium, Bielefeld University, 14 May 2025
 
-*M Aloni (joint work with M Degano). How to be (non-)specific: diachronic tendencies and
+* M Aloni (joint work with M Degano). How to be (non-)specific: diachronic tendencies and
 cross-linguistic variation. [slides](resources/Bologna24.pdf) FoDS 9, Bologna, November 2024
 
 * M Aloni (joint work with T Klochowicz and G Sbardolini). Neglect-zero and no-split: cognitive biases at the semantic-pragmatic interface,
