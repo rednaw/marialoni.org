@@ -23,6 +23,8 @@ brings together researchers working on implicatures and other pragmatic inferenc
 
 ## Schedule
 The workshop will take place on Thursday 11 September in Kutaisi, Georgia
+
+
 * 09.30-10.15: Camelia Bleotu
 * 10.15-11.00: Fabian Schlotterbeck
 * 11.00-11.30: break
