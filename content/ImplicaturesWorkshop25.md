@@ -31,7 +31,7 @@ The workshop will take place on Thursday 11 September in Kutaisi, Georgia
 * 11.30-12.15: Jacopo Romoli
 * 12.15-12.30: Discussion
 * 12.30-14.00: lunch
-* 14.00-14.45: Itai Bassi and Tue Trinh
+* 14.00-14.45: Itai Bassi  
 * 14.45-15.30: Giorgio Sbardolini
 
 ### Organizers: 
