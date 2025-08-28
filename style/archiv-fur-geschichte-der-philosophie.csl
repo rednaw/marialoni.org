@@ -63,11 +63,13 @@
       <if type="book chapter paper-conference" match="any">
         <group delimiter=", " prefix=" ">
           <text variable="publisher-place"/>
+          <text variable="publisher"/>
         </group>
       </if>
       <else>
         <group delimiter=", " prefix=", ">
           <text variable="publisher-place"/>
+          <text variable="publisher"/>
         </group>
       </else>
     </choose>
