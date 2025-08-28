@@ -24,52 +24,52 @@ The goal of the MoL graduation trajectory is to provide 2nd year MoL students in
 NOTE: The trajectory is designed for 2nd year MoL students who intend to graduate in the second semester. But also for students starting their thesis writing semester in September, who intend to graduate in the first semester. Students from other cohorts or Logic Year students are also welcome to attend the sessions (in particular the research units presentations). Also 2nd year students who intend to take an extra semester can follow the trajectory this year [advisable for those components that will come too late for them next year such as the research seminars, the January presentations, how to write a MoL thesis] but will have to do their MoL thesis presentation in the next fall.
 
 
-## Schedule 2024/25 (subject to change)
+## Schedule 2025/26 (subject to change)
 The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 
 ### 1st Period   		 	 
-* Wed, 4 Sep: no class
-* Wed, 11 Sep: [Introduction](https://www.marialoni.org/resources/GradTraj24-intro.pdf) (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
-* Wed, 18 Sep: no class  	 
-* Wed, 25 Sep: no class            
-* Wed, 2 Oct:  ILLC research unit presentations: 17.00-17.45 [MCL](https://www.illc.uva.nl/Research/Organisation/Research-Units/MCL) (Yde Venema, Benno van den Berg, Alexandru Baltag) & 18.00-18.45 [NLP&DH](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) (Alberto Testoni, Frank Wildenburg, Vera Neplenbroek)
-* Wed, 9 Oct:  ILLC research unit presentations: 17.00-17.45 [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) (Luca Incurvati, Sonia Ramotowska, Jeroen Smid) & 18.00-18.45 [TCS](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS) (Ulle Endriss, Rebecca Reiffenhäuser, Gregor Behnke)
-* Wed, 16 Oct: no class 
-* Wed, 23 Oct: no class (exam week)    	 
+* Wed, 3 Sep: no class
+* Wed, 10 Sep: no class  
+* Wed, 17 Sep:  [Introduction](https://www.marialoni.org/resources/GradTraj24-intro.pdf) (Maria Aloni) & info on PhD applications (TBA) 		 
+* Wed, 24 Sep: no class            
+* Wed, 1 Oct:  Presentations of possible thesis topics (ILLC researchers) 
+* Wed, 8 Oct:  Presentations of possible thesis topics (ILLC researchers) 
+* Wed, 15 Oct: Presentations of possible thesis topics (ILLC researchers)  
+* Wed, 22 Oct: no class (exam week)    	 
 
 ### 2nd Period
-* Wed, 30 Oct: Plenary MoL thesis presentations (students graduating in Semester 1)
-* Wed, 6 Nov:  Plenary MoL thesis presentations (students graduating in Semester 1) 
-* Wed, 13 Nov:  How to write a grant proposal - Arianna Betti   
-* Wed, 20 Nov:  no class 
-* Wed, 27 Nov:  ILLC research unit presentations: [LMC](https://www.illc.uva.nl/Research/Organisation/Research-Units/LMC)   & [EPS](https://www.illc.uva.nl/Research/Organisation/Research-Units/EPS)
-* Wed, 4 Dec:   MoL  course presentations for second semester   
-* Wed, 11 Dec:  MoL January project presentations  
-* Wed, 19 Dec: no class (exam week)
+* Wed, 29 Oct: Plenary MoL thesis presentations (students graduating in Semester 1)
+* Wed, 5 Nov:  Plenary MoL thesis presentations (students graduating in Semester 1) 
+* Wed, 12 Nov:  TBA  
+* Wed, 19 Nov:  TBA 
+* Wed, 26 Nov:  TBA
+* Wed, 3 Dec:   MoL course presentations for second semester   (TBC)
+* Wed, 9 Dec:  MoL January project presentations  (TBC)
+* Wed, 17 Dec: no class (exam week)
 
 ### 3rd Period
-* Wed, 8 Jan:  no class
-* Wed, 15 Jan: no class   
-* Wed, 22 Jan: no class 
-* Wed, 29 Jan: student topic presentations 
+* Wed, 7 Jan:  no class
+* Wed, 14 Jan: no class   
+* Wed, 21 Jan: student topic presentations 
+* Wed, 28 Jan: student topic presentations 
 
 ### 4th Period
-* Wed, 5 Feb: student topic presentations
-* Wed, 12 Feb: student topic presentations
-* Wed, 19 Feb: no class
-* Wed, 26 Feb: Scientific Integrity - Martin Stokhof  
-* Wed, 5 March: How to write a MoL thesis (Aleksi Anttila, Daniel Otten, Sabina Dominguez Parrado)  
-* Wed, 12 March: no class
-* Wed, 19 March: no class
-* Wed, 26 March: no class 
+* Wed, 4 Feb: student topic presentations
+* Wed, 11 Feb: student topic presentations
+* Wed, 18 Feb: no class
+* Wed, 25 Feb: Scientific Integrity - Martin Stokhof  (TBC)
+* Wed, 4 March: How to write a MoL thesis   (TBC)
+* Wed, 11 March: no class
+* Wed, 18 March: no class
+* Wed, 25 March: no class 
 
 ### 5th Period 
-* Wed, 2 April: Plenary MoL thesis presentations: Logic and Mathematics 
-* Wed, 9 April: Plenary MoL thesis presentations: Logic and Computation  
-* Wed, 16 April: Plenary MoL thesis presentations: Logic and Philosophy 
-* Wed, 23 April: Plenary MoL thesis presentations: Logic and Language
-* Mon, 19 May: MoL June project presentations
-* Wed, 21 May:  MoL course presentations for first semester 25/26
+* Wed, 1 April: Plenary MoL thesis presentations: Logic and Mathematics 
+* Wed, 8 April: Plenary MoL thesis presentations: Logic and Computation  
+* Wed, 15 April: Plenary MoL thesis presentations: Logic and Philosophy 
+* Wed, 22 April: Plenary MoL thesis presentations: Logic and Language
+* Mon, 18 May:  MoL June project presentations (TBC)
+* Wed, 20 May:  MoL course presentations for first semester 26/27 (TBC)
 
-[Schedule of the MoL thesis presentations 24/25](https://www.marialoni.org/GradTraj24_25)
+[Schedule of 24/25](https://www.marialoni.org/GradTraj24_25)
  
