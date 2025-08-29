@@ -35,8 +35,8 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 ### 1st Period   		 	 
 * Wed, 3 Sep: no class
 * Wed, 10 Sep: no class  
-* Wed, 17 Sep:  [Introduction](https://www.marialoni.org/resources/GradTraj24-intro.pdf) (Maria Aloni) & info on PhD applications (TBC) 		 
-* Wed, 24 Sep: no class            
+* Wed, 17 Sep: Introduction (Maria Aloni)    		 
+* Wed, 24 Sep: Life after ILLC:  info on PhD applications (TBC)            
 * Wed, 1 Oct:  Presentations of possible thesis topics (ILLC researchers) 
 * Wed, 8 Oct:  Presentations of possible thesis topics (ILLC researchers) 
 * Wed, 15 Oct: Presentations of possible thesis topics (ILLC researchers)  
