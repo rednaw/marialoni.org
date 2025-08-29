@@ -15,8 +15,13 @@ permalink: ./GraduationTrajectory
 **Programme:** [Master of Logic (MoL)](https://msclogic.illc.uva.nl)<br>
 **Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
 
+<a href="https://msclogic.illc.uva.nl" target="_blank">
+  <img src="{{ site.baseurl }}/resources/MoL.png" alt="MoL" width="50%" class="MoL"/>
+</a>
+
+
 ## Course description
-The goal of the MoL graduation trajectory is to provide 2nd year MoL students information and extra support in their final year. It includes a number of **information meetings** (on MoL graduation procedure, PhD applications, life after ILLC), some **trainings** (how to write a cv/research proposal, how to write a MoL thesis), and **ILLC research units presentations**, 3 sessions where the ILLC research units present themselves to the graduating students. The aim of these sessions is to give students an illustration of the topics ILLC researchers are currently working on and which could lead to open questions to be addressed in a MSc thesis. The trajectory further includes two kinds of **student presentations**: 
+The goal of the MoL graduation trajectory is to provide 2nd year MoL students information and extra support in their final year. It includes a number of **information meetings** (on MoL graduation procedure, PhD applications, life after ILLC), some **trainings** (how to write a cv/research proposal, how to write a MoL thesis), and a number of sessions where ILLC researchers present **possible thesis topics** to the graduating students. The trajectory further includes two kinds of **student presentations**:  
 
 * MoL thesis presentations (mandatory for graduating students, where students present their ongoing thesis project to the ILLC community) 
 * January presentations (more informal where students present their thesis topic to each other)
@@ -30,7 +35,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 ### 1st Period   		 	 
 * Wed, 3 Sep: no class
 * Wed, 10 Sep: no class  
-* Wed, 17 Sep:  [Introduction](https://www.marialoni.org/resources/GradTraj24-intro.pdf) (Maria Aloni) & info on PhD applications (TBA) 		 
+* Wed, 17 Sep:  [Introduction](https://www.marialoni.org/resources/GradTraj24-intro.pdf) (Maria Aloni) & info on PhD applications (TBC) 		 
 * Wed, 24 Sep: no class            
 * Wed, 1 Oct:  Presentations of possible thesis topics (ILLC researchers) 
 * Wed, 8 Oct:  Presentations of possible thesis topics (ILLC researchers) 
