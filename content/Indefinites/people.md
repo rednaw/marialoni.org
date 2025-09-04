@@ -5,7 +5,7 @@ permalink: ./Indefinites/people
 ---
 
 **People**
-- [Maria Aloni](https://www.marialoni.org) (PI), since November 2007
+- [Maria Aloni]({{ "/" | relative_url }}) (PI), since November 2007
 - [Katrin Schulz](https://www.uva.nl/profiel/s/c/k.schulz/k.schulz.html?cb) (postdoc), November 2007 - January 2011
 - [Stephanie Solt](https://www.leibniz-zas.de/en/people/details/solt-stephanie/stephanie-solt) (postdoc), since March 2012
 - [Angelika Port](https://www.uva.nl/en/profile/p/o/a.port/a.port.html) (PhD student), since April 2008

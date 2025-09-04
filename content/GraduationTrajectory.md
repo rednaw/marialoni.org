@@ -13,7 +13,7 @@ permalink: ./GraduationTrajectory
 
 **Title:** MoL Graduation Trajectory<br>
 **Programme:** [Master of Logic (MoL)](https://msclogic.illc.uva.nl)<br>
-**Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
+**Coordinator:** [Maria Aloni]({{ "/" | relative_url }})<br>
 
 <a href="https://msclogic.illc.uva.nl" target="_blank">
   <img src="{{ site.baseurl }}/resources/MoL.png" alt="MoL" width="50%" class="MoL"/>
@@ -76,5 +76,5 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Mon, 18 May:  MoL June project presentations (TBC)
 * Wed, 20 May:  MoL course presentations for first semester 26/27 (TBC)
 
-[Schedule of 24/25](https://www.marialoni.org/GradTraj24_25)
+[Schedule of 24/25]({{ "/GradTraj24_25" | relative_url }})
  

@@ -1,5 +1,5 @@
-url: https://rednaw.github.io/
-#baseurl: /marialoni.org
+url: https://marialoni.org
+baseurl: ""
 
 # bootstrap_version: 4.5.3
 # jquery_version: 3.6.0

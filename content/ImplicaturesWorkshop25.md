@@ -37,6 +37,6 @@ The workshop will take place on Thursday 11 September in Kutaisi, Georgia
 ### Organizers: 
 * [Milica Denic](https://sites.google.com/view/milicadenic/) (University of Geneva)
 * [Sarah Zobel](https://sarahzobel.net) (Humboldt University Berlin)
-* [Maria Aloni](https://www.marialoni.org) (University of Amsterdam)
+* [Maria Aloni]({{ "/" | relative_url }}) (University of Amsterdam)
  
 

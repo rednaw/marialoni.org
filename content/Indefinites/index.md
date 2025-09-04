@@ -16,4 +16,4 @@ in meaning and use.
 
 **Research founding:** [NWO](https://www.nwo.nl) Vidi project (2007-2012)  
 
-**Principal Investigator:** [Maria Aloni](https://www.marialoni.org)
+**Principal Investigator:** [Maria Aloni]({{ "/" | relative_url }})

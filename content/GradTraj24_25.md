@@ -5,9 +5,9 @@ permalink: ./GradTraj24_25
 ---
 # Plenary MoL thesis presentations: April 2025 
 
-**Course:** [MoL Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory)<br>
+**Course:** [MoL Graduation Trajectory]({{ "/GraduationTrajectory" | relative_url }})<br>
 **Programme:** [Master of Logic (MoL)](https://msclogic.illc.uva.nl)<br>
-**Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
+**Coordinator:** [Maria Aloni]({{ "/" | relative_url }})<br>
 
 <a href="https://msclogic.illc.uva.nl" target="_blank">
   <img src="{{ site.baseurl }}/resources/MoL.png" alt="MoL" width="50%" class="MoL"/>
@@ -132,7 +132,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 
 ### 1st Period   		 	 
 * Wed, 4 Sep: no class
-* Wed, 11 Sep: [Introduction](https://www.marialoni.org/resources/GradTraj24-intro.pdf) (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
+* Wed, 11 Sep: [Introduction]({{ "/resources/GradTraj24-intro.pdf" | relative_url }}) (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
 * Wed, 18 Sep: no class  	 
 * Wed, 25 Sep: no class            
 * Wed, 2 Oct:  ILLC research unit presentations: 17.00-17.45 [MCL](https://www.illc.uva.nl/Research/Organisation/Research-Units/MCL) (Yde Venema, Benno van den Berg, Alexandru Baltag) & 18.00-18.45 [NLP&DH](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) (Alberto Testoni, Frank Wildenburg, Vera Neplenbroek)

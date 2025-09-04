@@ -6,7 +6,7 @@ permalink: ./Nihil/people
 
 **People**
 
-- [Maria Aloni](https://www.marialoni.org) 
+- [Maria Aloni]({{ "/" | relative_url }}) 
 - [Aleksi Anttila](https://researchportal.helsinki.fi/en/persons/aleksi-ilari-anttila)
 - Søren Brinck Knudstorp
 - [Marco Degano](https://m-degano.github.io)

@@ -15,7 +15,7 @@ permalink: ./introduction-to-logic
 **Course code:** 5122LCIT3Y<br>
 **Credits:** 3 EC<br>
 **Course load:** 4 weeks programme (part time) / 2 weeks programme (fulltime)<br>
-**Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
+**Coordinator:** [Maria Aloni]({{ "/" | relative_url }})<br>
 **Instructor:**  Maria Aloni
 
 This introductory course to logic is part of the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/), ILLC, University of Amsterdam. The course is offered as a self-study with opportunities for final exams in blocks 1, 3 and 6. One week before each exam there will be one Q&A session with the instructors. The schedule with time and location of the exams and the Q&A sessions can be found in [DataNose](https://datanose.nl/#course[129028]).
@@ -79,8 +79,8 @@ The book by Gamut is written with an eye towards applications in linguistics, wh
 ## Test exam
 Once you have studied the course materials it is time to test yourself. If you are able to make the following test exam you should be well prepared to make the real exam.<br><br>
 
-- [Test Exam](https://www.marialoni.org/resources/test-exam.pdf) 
-- [Solutions](https://www.marialoni.org/resources/solutions-test-exam.pdf)
+- [Test Exam]({{ "/resources/test-exam.pdf" | relative_url }}) 
+- [Solutions]({{ "/resources/solutions-test-exam.pdf" | relative_url }})
 
 ## Examination
 Grading will be based on a written exam. Every year there are three opportunities for a final exam in periods 1 (September), 3 (January) and 6 (June). The exams will take place in Science Park. Consult DataNose for exact time and locations: [DataNose](https://datanose.nl/#course[121270]).

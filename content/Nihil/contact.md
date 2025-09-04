@@ -8,4 +8,4 @@ permalink: ./Nihil/contact
 
 {% include contact.md %}
 
-**Web** [https://www.marialoni.org](https://www.marialoni.org)
+**Web** [{{ site.url }}]({{ "/" | relative_url }})

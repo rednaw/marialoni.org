@@ -6,6 +6,7 @@ permalink: ./teaching
 
 ## Teaching
 
+
 **Programmes**
 * [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/). ILLC, University of Amsterdam.
 * [Master of Logic](https://msclogic.illc.uva.nl). ILLC, University of Amsterdam.
@@ -17,16 +18,16 @@ permalink: ./teaching
 * Structures for Semantics
 * Semantics and Philosophy
 * Colloquium Philosophy
-* [MoL Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory)
+* [MoL Graduation Trajectory]({{ "/GraduationTrajectory" | relative_url }})
 * Project Logic and Computation 1 and 2 
 * Tutoring and Study Guidance Master's in Philosophy and Master of Logic
-* [ILLC PhD Trajectory](https://www.marialoni.org/ILLCPhDTrajectory)
+* [ILLC PhD Trajectory]({{ "/ILLCPhDTrajectory" | relative_url }})
 
 **[Courses in 2024/25](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-docent/docent/9379)** 
 * Structures for Semantics
 * Semantics and Philosophy
 * Colloquium Philosophy
-* [MoL Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory)
+* [MoL Graduation Trajectory]({{ "/GraduationTrajectory" | relative_url }})
 * Project Logic and Computation 1 and 2 
 * Logic and Computation: [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
 
@@ -56,7 +57,7 @@ permalink: ./teaching
 * Project Logic and Computation 1 and 2 
 * [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
 * [Team Semantics and Dependence: Linguistic and Philosophical Applications](https://dependence-project.netlify.app/project/)
-* [Dynamics in Language](https://www.marialoni.org/resources/DynTutorial2022.pdf) Tutorial at Tsinghua University, 31/3/2022  
+* [Dynamics in Language]({{ "/resources/DynTutorial2022.pdf" | relative_url }}) Tutorial at Tsinghua University, 31/3/2022  
 
 **[Courses in 2020/21](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-docent/docent/9379)** 
 * Logica en de Linguistic Turn
