@@ -11,6 +11,16 @@ permalink: ./teaching
 * [Master of Logic](https://msclogic.illc.uva.nl). ILLC, University of Amsterdam.
 * [MA Philosophy](https://gsh.uva.nl/content/masters/philosophy/philosophy.html). Department of Philosophy, University of Amsterdam.
 * [BA Filosofie](https://www.uva.nl/programmas/bachelors/filosofie/filosofie.html). Department of Philosophy, University of Amsterdam.
+* [ILLC PhD Programme](https://phdprogramme.illc.uva.nl). ILLC, University of Amsterdam.
+
+**[Courses in 2025/26](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-docent/docent/9379)** 
+* Structures for Semantics
+* Semantics and Philosophy
+* Colloquium Philosophy
+* [MoL Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory)
+* Project Logic and Computation 1 and 2 
+* Tutoring and Study Guidance Master's in Philosophy and Master of Logic
+* [ILLC PhD Trajectory](https://www.marialoni.org/ILLCPhDTrajectory)
 
 **[Courses in 2024/25](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-docent/docent/9379)** 
 * Structures for Semantics
