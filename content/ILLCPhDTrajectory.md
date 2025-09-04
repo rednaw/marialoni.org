@@ -11,6 +11,7 @@ permalink: ./ILLCPhDTrajectory
 
 # ILLC PhD Trajectory
 
+**Programme:** [ILLC PhD programme](https://phdprogramme.illc.uva.nl)<br>
 **Coordinator:** [Maria Aloni]({{ "/" | relative_url }})<br>
 
 <a href="https://msclogic.illc.uva.nl" target="_blank">
@@ -19,19 +20,19 @@ permalink: ./ILLCPhDTrajectory
 
 
 ## Description
-The goal of the trajectory is to provide ILLC PhD candidates with information, training and extra support in their starting year. It includes two soft skills courses,  a DEI training and a number of lectures illustrating different research lines within ILLC.  
+The goal of the trajectory is to provide ILLC PhD candidates with information, training and extra support in their first year. It includes two soft skills courses,  a DEI training and a number of lectures illustrating different research lines within ILLC.  
 
 ## Organisation
-* Mandatory for 1st year ILLC PhD candidates (excluding CWI candidates);
+* Mandatory for 1st year ILLC PhD candidates (excluding CWI);
 * Start in September 2025;
 * New PhDs can join all year long. If they miss one (obligatory) session in year 1, they can follow it in year 2;
-* Monthly meetings with a scientific + soft skills programme, some of the sessions open to all PhD community:
+* Monthly meetings with a scientific + soft skills programme, some of the sessions open to the whole PhD community:
 
 1. Introduction [September]
 2. DEI/active bystander training (with supervisors) [October]
 3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130027)   (at least 3 lecturers obligatory) [September-December]
 4. ILLC PhD day:  (Poster) presentations given by new and senior ILLC PhD candidates (January)
-5. Academic writing training (offered by C. Apt and M. Stokhof, before the meeting people should have completed the Cursera self-study and should bring examples of their own writings for peer feedback) [April,TBC]
+5. Academic writing  (offered by [Krzysztof R. Apt](https://homepages.cwi.nl/~apt/) and [Martin Stokhof](https://stokhof.org)) [April,TBC]
 6. Presentation skills [May, TBC]
  
 ## Schedule 2025/26 (subject to change)
