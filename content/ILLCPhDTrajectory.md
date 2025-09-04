@@ -27,12 +27,12 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 * New PhDs can join all year long. If they miss one (obligatory) session in year 1, they can follow it in year 2;
 * Monthly meetings with a scientific + soft skills programme, some of the sessions open to all PhD community:
 
-1. Introduction (September)
-2. DEI/active bystander training (October)
-3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130027) (September-December, at least 3 talks obligatory)
-4. ILLC PhD day: Short presentations given by new and senior ILLC PhD candidates (January)
-5. Academic writing (April, before the meeting people should have completed the Cursera self-study and should bring examples of their own writings for peer feedback, with presentations by C. Apt and M. Stokhof, TBC)
-6. Presentation skills (May, TBC)
+1. Introduction [September]
+2. DEI/active bystander training (with supervisors) [October]
+3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130027)   (at least 3 lecturers obligatory) [September-December]
+4. ILLC PhD day:  (Poster) presentations given by new and senior ILLC PhD candidates (January)
+5. Academic writing training (offered by C. Apt and M. Stokhof, before the meeting people should have completed the Cursera self-study and should bring examples of their own writings for peer feedback) [April,TBC]
+6. Presentation skills [May, TBC]
  
 ## Schedule 2025/26 (subject to change)
 The lectures are normally schedules on Monday afternoon. 
