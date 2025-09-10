@@ -25,13 +25,13 @@ brings together researchers working on implicatures and other pragmatic inferenc
 The workshop will take place on Thursday 11 September in Kutaisi, Georgia
 
 
-* 09.30-10.15: Camelia Bleotu - Conjunction as a Default Meaning of Disjunction
-* 10.15-11.00: Fabian Schlotterbeck - Is each type of strengthening explained by implicature or neglect-zero?
+* 09.30-10.15: Camelia Bleotu - [Conjunction as a Default Meaning of Disjunction](https://www.marialoni.org/resources/ws-Bleotu Camelia Bleotu.pdf)
+* 10.15-11.00: Fabian Schlotterbeck - [Is each type of strengthening explained by implicature or neglect-zero?](https://www.marialoni.org/resources/ws-schlotterbeck Fabian Schlotterbeck.pdf)
 * 11.00-11.30: break
 * 11.30-12.15: Jacopo Romoli - Redundancy across connectives
 * 12.15-12.30: Discussion
 * 12.30-14.00: lunch
-* 14.00-14.45: Itai Bassi - The symmetry problem and partition by exhaustification 
+* 14.00-14.45: Itai Bassi - [The symmetry problem and partition by exhaustification](https://www.marialoni.org/resources/ws-bassi Itai Bassi.pdf) 
 * 14.45-15.30: Giorgio Sbardolini - Everything and nothing
 
 ### Organizers: 
