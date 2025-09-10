@@ -36,7 +36,7 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 6. Presentation skills [May, TBC]
  
 ## Schedule 2025/26 (subject to change)
-The lectures are normally schedules on Monday afternoon. 
+The lectures are normally scheduled on Monday afternoon. 
 
 ### 1st Semester   		 	 
 * Monday, 29 September, 16.00-17.00, room F1.15, ILLC: Introduction
