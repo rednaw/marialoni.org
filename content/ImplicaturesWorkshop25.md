@@ -25,14 +25,14 @@ brings together researchers working on implicatures and other pragmatic inferenc
 The workshop will take place on Thursday 11 September in Kutaisi, Georgia
 
 
-* 09.30-10.15: Camelia Bleotu
-* 10.15-11.00: Fabian Schlotterbeck
+* 09.30-10.15: Camelia Bleotu - Conjunction as a Default Meaning of Disjunction
+* 10.15-11.00: Fabian Schlotterbeck - Is each type of strengthening explained by implicature or neglect-zero?
 * 11.00-11.30: break
-* 11.30-12.15: Jacopo Romoli
+* 11.30-12.15: Jacopo Romoli -Redundancy across connectives
 * 12.15-12.30: Discussion
 * 12.30-14.00: lunch
-* 14.00-14.45: Itai Bassi  
-* 14.45-15.30: Giorgio Sbardolini
+* 14.00-14.45: Itai Bassi - The symmetry problem and partition by exhaustification 
+* 14.45-15.30: Giorgio Sbardolini - Everything and nothing
 
 ### Organizers: 
 * [Milica Denic](https://sites.google.com/view/milicadenic/) (University of Geneva)
