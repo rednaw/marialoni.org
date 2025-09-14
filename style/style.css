@@ -117,3 +117,16 @@ hr.bookcover {
   width:40%;
   border-color:black;
 }
+
+pre[id*="_abstract"] {
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+pre[id*="_bibtex"] {
+  white-space: pre;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
