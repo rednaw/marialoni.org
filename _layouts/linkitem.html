@@ -17,6 +17,14 @@
   {% if entry.slides %}
   <a href=" {{ site.baseurl }}/resources/{{ entry.slides }}">[slides]</a>
   {% endif %}
+  {% if entry.abstract %}
+  <button class="aslink" data-toggle="collapse" data-target="#{{entry.key}}_abstract">[Abstract]</button>
+  {% endif %}
   <button class="aslink" data-toggle="collapse" data-target="#{{entry.key}}_bibtex">[BibTex]</button>
-  <pre id="{{entry.key}}_bibtex" class="collapse">{{ entry.bibtex }}</pre>
+  <div>
+    {% if entry.abstract %}
+    <pre id="{{entry.key}}_abstract" class="collapse">{{ entry.abstract }}</pre>
+    {% endif %}
+    <pre id="{{entry.key}}_bibtex" class="collapse">{{ entry.bibtex }}</pre>
+  </div>
 </div>
