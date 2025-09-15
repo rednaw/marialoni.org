@@ -32,7 +32,7 @@ The workshop will take place on Thursday 11 September in Kutaisi, Georgia
 * 12.15-12.30: Discussion
 * 12.30-14.00: lunch
 * 14.00-14.45: Itai Bassi - [The symmetry problem and partition by exhaustification](https://www.marialoni.org/resources/ws-bassi Itai Bassi.pdf) 
-* 14.45-15.30: Giorgio Sbardolini - [Everything and nothing](https://www.marialoni.org/resources/Everything and Nothing.pdf) 
+* 14.45-15.30: Giorgio Sbardolini - [Everything and nothing](https://www.marialoni.org/resources/Everything and Nothing.pdf) [(slides)](https://www.marialoni.org/resources/Sbardolini-TbiLLC.pdf)
 
 ### Organizers: 
 * [Milica Denic](https://sites.google.com/view/milicadenic/) (University of Geneva)
