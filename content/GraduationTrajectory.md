@@ -37,7 +37,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 10 Sep: no class  
 * Wed, 17 Sep: Introduction (Maria Aloni) & info on PhD applications    		 
 * Wed, 24 Sep: no class            
-* Wed, 1 Oct:  Presentations of possible thesis topics (ILLC researchers) 
+* Wed, 1 Oct:  no class   
 * Wed, 8 Oct:  Presentations of possible thesis topics (ILLC researchers) 
 * Wed, 15 Oct: Presentations of possible thesis topics (ILLC researchers)  
 * Wed, 22 Oct: no class (exam week)    	 
