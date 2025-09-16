@@ -25,7 +25,7 @@ brings together researchers working on implicatures and related inferences from 
 The workshop will take place on Thursday 11 September in Kutaisi, Georgia
 
 
-* 09.30-10.15: Camelia Bleotu - [Conjunction as a Default Meaning of Disjunction](https://www.marialoni.org/resources/ws-Bleotu Camelia Bleotu.pdf)
+* 09.30-10.15: Camelia Bleotu - [Conjunction as a Default Meaning of Disjunction](https://www.marialoni.org/resources/ws-Bleotu Camelia Bleotu.pdf) [(slides)](https://www.marialoni.org/resources/Bleotu_Kutaisi.pdf)
 * 10.15-11.00: Fabian Schlotterbeck - [Is each type of strengthening explained by implicature or neglect-zero?](https://www.marialoni.org/resources/ws-schlotterbeck Fabian Schlotterbeck.pdf)
 * 11.00-11.30: break
 * 11.30-12.15: Jacopo Romoli - Redundancy across connectives [(slides)](https://www.marialoni.org/resources/RomoliGeorgia.pdf)
