@@ -32,7 +32,7 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 2. DEI/active bystander training (with supervisors) [October]
 3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130027)   (at least 3 lecturers obligatory) [September-December]
 4. ILLC PhD day:  (Poster) presentations given by new and senior ILLC PhD candidates (January)
-5. Academic writing  (offered by [Krzysztof R. Apt](https://homepages.cwi.nl/~apt/) and [Martin Stokhof](https://stokhof.org)) [April,TBC]
+5. Academic writing  ([Krzysztof R. Apt](https://homepages.cwi.nl/~apt/), [Martin Stokhof](https://stokhof.org) and [Khalil Sima'an](https://sites.google.com/site/khalilsimaaan/home/computational-linguistics) (TBC)) [April,TBC]
 6. Presentation skills [May, TBC]
  
 ## Schedule 2025/26 (subject to change)
@@ -40,7 +40,7 @@ The lectures are normally scheduled on Monday afternoon.
 
 ### 1st Semester   		 	 
 * Monday, 29 September, 16.00-17.00, room F1.15, ILLC: Introduction
-* Monday, 27 October, time and location (TBA):  Active bystander training (with supervisors)
+* Monday, 27 October, 15.00-17.00, location (TBA):  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
 * every Monday, Sep-Dec, 17.00-19.00,  [LoLaCo lectures](https://datanose.nl/#course[137520]) (3 obligatory)    	 
 * Monday, 26 January, 10-17, ILLC PhD day (TBC)
   
