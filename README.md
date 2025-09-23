@@ -7,7 +7,7 @@
 
 This project generates HTML for https://www.marialoni.org
 
- The most important directories and files are:
+The most important directories and files are:
 - **content** All content (web text and bibliographies) goes here
 - **resources** All resources (pdfs) go here
 - **_include/contact.md** contact information
