@@ -30,26 +30,6 @@ jobs:
           ./build.sh
         continue-on-error: false
 
-      - name: Comment on Failed Build
-        if: failure()
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const output = `❌ **Build Failed**
-            
-            The website build failed due to syntax errors. Please check the [Actions tab](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) for detailed error messages.
-            
-            **Common fixes:**
-            - Check YAML syntax in markdown files
-            - Check BibTeX syntax in aloni.bib
-            - Fix the errors and push again`;
-            
-            github.rest.repos.createCommitComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              commit_sha: context.sha,
-              body: output
-            });
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
