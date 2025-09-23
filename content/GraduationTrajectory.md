@@ -1,7 +1,7 @@
 ---
 title: MoL Graduation Trajectory
 layout: nomenu
-permalink: ./GraduationTrajectory
+permalink: [./GraduationTrajectory
 ---
 
 <a href="https://www.illc.uva.nl" target="_blank">
