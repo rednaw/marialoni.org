@@ -17,11 +17,16 @@ jobs:
         with:
           ruby-version: 3.2
 
+      - name: Install dependencies 📦
+        run: |
+          gem install bundler
+          bundle install
+
       - name: Build 🔨
-        uses: limjh16/jekyll-action-ts@v2
-        with:
-          enable_cache: true
-          format_output: true
+        run: |
+          chmod +x build.sh
+          ./build.sh
+        continue-on-error: false
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
