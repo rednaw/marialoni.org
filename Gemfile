@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'highline', '~> 2.1'
+gem 'highline', '~> 3.1'
 gem 'jekyll', '4.3'
 
 group :jekyll_plugins do
