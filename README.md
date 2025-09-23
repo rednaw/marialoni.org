@@ -22,7 +22,7 @@ After initial setup (see below) changes are done in three steps:
 
 ## Local setup
 
-This site
+This site 
 - is deployed using [GitHub Pages](https://pages.github.com/)
 - uses [Jekyll](https://jekyllrb.com/) as web framework
 - uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme), a Jekyll extension for parsing BibTex files.
