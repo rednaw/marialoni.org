@@ -7,7 +7,10 @@ on:
 
 jobs:
   jekyll:
-    runs-on: ubuntu-22.04 
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read 
     steps:
       - name: Checkout 📂
         uses: actions/checkout@v3
