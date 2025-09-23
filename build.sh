@@ -4,11 +4,8 @@ echo ""
 output=$(RUBYOPT="-W0" bundle exec jekyll build --strict 2>&1 | grep -v "Warning: Empty")
 
 if echo "$output" | grep -q "Exception\|Error\|Failed\|Warning"; then
-    echo "$output" | grep "YAML Exception"
-    echo ""
-    echo "$output" | grep "Failed to parse BibTeX" | head -1
-    echo ""
-    echo "$output" | grep "Liquid Warning" | head -1
+    echo "Build errors found:"
+    echo "$output" | grep -E "Exception|Error|Failed|Warning" | grep -v "Warning: Empty" | head -5
     echo ""
     echo "💡 Fix the errors above and try again"
     echo ""
