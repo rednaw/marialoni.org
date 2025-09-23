@@ -18,11 +18,12 @@ jobs:
       - name: Setup 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2
+          ruby-version: 3.3
 
       - name: Install dependencies 📦
         run: |
-          gem install bundler
+          gem install bundler --user-install
+          bundle config set --local path 'vendor/bundle'
           bundle install
 
       - name: Build 🔨
