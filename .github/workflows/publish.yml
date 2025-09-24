@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - mobile
   workflow_dispatch:
 
 permissions:
@@ -36,37 +35,12 @@ jobs:
 
       - name: Build 🔨
         run: |
-          if [ "${{ github.ref_name }}" = "mobile" ]; then
-            echo "Building mobile site with baseurl=/mobile..."
-            # Temporarily update config for mobile build
-            sed -i 's/baseurl: ""/baseurl: "\/mobile"/' _config.yml
-            ./build.sh
-            # Restore original config
-            sed -i 's/baseurl: "\/mobile"/baseurl: ""/' _config.yml
-          else 
-            ./build.sh
-          fi
+          ./build.sh
         continue-on-error: false
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
-      - name: Prepare deployment 🎯
-        run: |
-          if [ "${{ github.ref_name }}" = "mobile" ]; then
-            echo "Preparing mobile site for deployment..."
-            # Create mobile directory and move _site contents there
-            mkdir -p mobile
-            cp -r _site/* mobile/
-            # Keep the mobile directory structure for deployment
-            rm -rf _site
-            mkdir -p _site
-            cp -r mobile _site/
-          else
-            echo "Preparing main site for deployment..."
-            # Keep _site as is for main branch
-          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
