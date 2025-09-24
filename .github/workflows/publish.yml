@@ -36,7 +36,7 @@ jobs:
             ./build.sh
             # Restore original config
             sed -i 's/baseurl: "\/mobile"/baseurl: ""/' _config.yml
-          else
+          else 
             ./build.sh
           fi
         continue-on-error: false
