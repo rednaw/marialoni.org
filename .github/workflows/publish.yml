@@ -5,13 +5,20 @@ on:
     branches:
       - main
       - mobile
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  jekyll:
-    runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-      actions: read 
+  build:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout 📂
         uses: actions/checkout@v5
@@ -41,23 +48,37 @@ jobs:
           fi
         continue-on-error: false
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Prepare deployment 🎯
         run: |
           if [ "${{ github.ref_name }}" = "mobile" ]; then
-            echo "Deploying mobile site to /mobile directory"
+            echo "Preparing mobile site for deployment..."
             # Create mobile directory and move _site contents there
             mkdir -p mobile
             cp -r _site/* mobile/
+            # Keep the mobile directory structure for deployment
             rm -rf _site
             mkdir -p _site
             cp -r mobile _site/
           else
-            echo "Deploying main site to root"
+            echo "Preparing main site for deployment..."
             # Keep _site as is for main branch
           fi
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          branch: gh-pages 
-          folder: _site
+          path: _site/
+
+  deploy:
+    environment:
+      name: github-pages
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
