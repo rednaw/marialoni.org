@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - mobile
 
 jobs:
   jekyll:
@@ -31,9 +32,20 @@ jobs:
           ./build.sh
         continue-on-error: false
 
+      - name: Set deployment path 🎯
+        id: set-path
+        run: |
+          if [ "${{ github.ref_name }}" = "main" ]; then
+            echo "path=" >> $GITHUB_OUTPUT
+            echo "site_name=Main Site" >> $GITHUB_OUTPUT
+          else
+            echo "path=/mobile" >> $GITHUB_OUTPUT
+            echo "site_name=Mobile Site" >> $GITHUB_OUTPUT
+          fi
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages 
           folder: _site
+          target-folder: ${{ steps.set-path.outputs.path }}
