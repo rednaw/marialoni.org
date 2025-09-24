@@ -31,7 +31,9 @@ jobs:
         run: |
           if [ "${{ github.ref_name }}" = "mobile" ]; then
             echo "Building mobile site with baseurl=/mobile..."
-            JEKYLL_ENV=production BASEURL="/mobile" RUBYOPT="-W0" bundle exec jekyll build --strict
+            sed -i 's/baseurl: ""/baseurl: "\/mobile"/' _config.yml
+            ./build.sh
+            sed -i 's/baseurl: "\/mobile"/baseurl: ""/' _config.yml
           else
             ./build.sh
           fi
