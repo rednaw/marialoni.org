@@ -60,8 +60,12 @@ body {
     left: 0;
     right: 0;
     background: #fff;
-    border: 1px solid #ccc;
-    padding: 10px;
+    border: 1px solid #006699;
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+    padding: 0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1001;
   }
   
   .mobile-nav-menu.show {
@@ -70,25 +74,35 @@ body {
   
   .mobile-nav-menu a {
     display: block;
-    padding: 12px 16px;
+    padding: 4px 8px;
     text-decoration: none;
     color: #006699;
-    border-bottom: 1px solid #eee;
-    transition: background-color 0.2s;
+    border-bottom: 1px solid #e0e0e0;
+    transition: background-color 0.2s ease;
+    font-weight: 400;
+    font-size: 13px;
   }
   
   .mobile-nav-menu a:hover {
-    background-color: #f0f0f0;
+    background-color: #f0f8ff;
+    color: #004466;
   }
   
   .mobile-nav-menu a:last-child {
     border-bottom: none;
+    border-radius: 0 0 3px 3px;
+  }
+  
+  .mobile-nav-menu a:first-child {
+    border-radius: 0;
   }
   
   .mobile-nav-menu hr {
-    margin: 8px 0;
+    margin: 1px 0;
     border: none;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #006699;
+    background: #006699;
+    height: 1px;
   }
   
   /* Adjust main content for mobile */
@@ -177,6 +191,53 @@ body {
     border-left: 3px solid #006699;
     background: #f9f9f9;
   }
+  
+  /* Adjust bullet points for publications */
+  ul {
+    padding-left: 15px !important;
+  }
+  
+  li {
+    margin-left: 0px !important;
+  }
+  
+  /* More specific targeting for list items */
+  body div.right ul {
+    padding-left: 15px !important;
+  }
+  
+  body div.right li {
+    margin-left: 0px !important;
+  }
+  
+  /* Fix extra newlines in publications on mobile */
+  p {
+    margin-bottom: 8px;
+  }
+  
+  /* Compact list items */
+  li {
+    margin-bottom: 2px;
+    line-height: 1.0;
+  }
+  
+  /* Remove all spacing from elements inside list items */
+  li * {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  /* Force all content in list items to be inline */
+  li p, li span, li a, li strong, li em {
+    display: inline !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  /* Remove line breaks */
+  li br {
+    display: none !important;
+  }
 }
 
 @media only screen and (max-width: 480px) {
@@ -189,7 +250,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 481px) {
+@media only screen and (min-width: 769px) {
   /* Hide mobile navigation on desktop */
   .mobile-nav {
     display: none;
