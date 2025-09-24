@@ -1,0 +1,9 @@
+{
+  "name": "marialoni.org",
+  "version": "1.0.0",
+  "description": "Maria Aloni's academic website",
+  "scripts": {
+    "build": "echo 'No build needed - pure CSS/JS!'",
+    "dev": "bundle exec jekyll serve"
+  }
+}

@@ -2,14 +2,12 @@ url: https://marialoni.org
 baseurl: ""
 quiet: true
 
-# bootstrap_version: 4.5.3
-# jquery_version: 3.6.0
-bootstrap_version: 3.4.1
-jquery_version: 3.5.1
-
 exclude:
   - Rakefile
   - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
 
 # See https://www.zotero.org/styles for more styles
 scholar:

@@ -2,6 +2,21 @@
 <html lang="en">
   {% include html_head.html %}
   <body>
+    <!-- Mobile Navigation (hidden on desktop) -->
+    <div class="mobile-nav">
+      <button class="mobile-nav-toggle" aria-label="Toggle navigation menu">☰</button>
+      <div class="mobile-nav-menu">
+        {% include indefinites_nav_links.html %}
+        <hr style="margin: 0; border: 1px solid #eee;">
+        <a href="{{ site.baseurl }}/">Main Site</a>
+      </div>
+    </div>
+
+    <!-- Desktop Navigation (hidden on mobile) -->
+    <div class="project_left">
+      {% include indefinites_nav_links.html %}
+    </div>
+        
     <div class="right">
       <table>
         <tr>
@@ -12,11 +27,6 @@
       </table>
       {{ content }}
     </div>
-    <div class="project_left">
-      <a href="{{ site.baseurl }}/Indefinites">Home</a><br/><br/>
-      <a href="{{ site.baseurl }}/Indefinites/people">People</a><br/><br/>
-      <a href="{{ site.baseurl }}/Indefinites/results">Results</a><br/><br/>
-      <a href="{{ site.baseurl }}/Indefinites/contact">Contact</a><br/><br/>
-    </div>
+    
   </body>
 </html>
