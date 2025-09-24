@@ -1,0 +1,366 @@
+@import "https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css";
+
+body {
+  color: #000;
+  background: #FFF;
+  margin-right: 1%;
+  font-family: "Computer Modern Serif", serif;
+  color : black;
+  font-size: 16px;  
+}
+
+/* Mobile-first responsive design */
+@media only screen and (max-width: 768px) {
+  body {
+    padding: 8px;
+    margin-right: 0;
+  }
+  
+  /* Hide desktop navigation on mobile */
+  div.main_left, div.project_left {
+    display: none;
+  }
+  
+  /* Mobile navigation */
+  .mobile-nav {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+    z-index: 1000;
+    padding: 8px 10px;
+    box-sizing: border-box;
+  }
+  
+  .mobile-nav-toggle {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 10px;
+    min-width: 44px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .mobile-nav-toggle:hover {
+    background: #f0f0f0;
+  }
+  
+  .mobile-nav-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border: 1px solid #006699;
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+    padding: 0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1001;
+  }
+  
+  .mobile-nav-menu.show {
+    display: block;
+  }
+  
+  .mobile-nav-menu a {
+    display: block;
+    padding: 4px 8px;
+    text-decoration: none;
+    color: #006699;
+    border-bottom: 1px solid #e0e0e0;
+    transition: background-color 0.2s ease;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  
+  .mobile-nav-menu a:hover {
+    background-color: #f0f8ff;
+    color: #004466;
+  }
+  
+  .mobile-nav-menu a:last-child {
+    border-bottom: none;
+    border-radius: 0 0 3px 3px;
+  }
+  
+  .mobile-nav-menu a:first-child {
+    border-radius: 0;
+  }
+  
+  .mobile-nav-menu hr {
+    margin: 1px 0;
+    border: none;
+    border-top: 1px solid #006699;
+    background: #006699;
+    height: 1px;
+  }
+  
+  /* Adjust main content for mobile */
+  div.right {
+    position: static !important;
+    margin-top: 80px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0 10px !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    max-width: none !important;
+    top: auto !important;
+  }
+  
+  div.centered {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  div.centered h2 {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  div.centered img {
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto 15px auto;
+  }
+  
+  div.centered span {
+    display: block;
+    margin-top: 15px;
+  }
+  
+  /* Responsive typography and spacing */
+  body {
+    font-size: 14px;
+  }
+  
+  h2 {
+    font-size: 1.3em;
+  }
+  
+  h4 {
+    font-size: 0.9em;
+  }
+  
+  p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  
+  /* Touch-friendly elements */
+  a {
+    min-height: 44px;
+    display: inline-block;
+    line-height: 44px;
+  }
+  
+  button.aslink {
+    min-height: 44px;
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+  
+  /* Responsive tables */
+  .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Bibliography styling */
+  ul.bibliography {
+    padding-left: 0;
+  }
+  
+  ul.bibliography li {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 3px solid #006699;
+    background: #f9f9f9;
+  }
+  
+  /* Adjust bullet points for publications */
+  ul {
+    padding-left: 15px !important;
+  }
+  
+  li {
+    margin-left: 0px !important;
+  }
+  
+  /* More specific targeting for list items */
+  body div.right ul {
+    padding-left: 15px !important;
+  }
+  
+  body div.right li {
+    margin-left: 0px !important;
+  }
+  
+  /* Fix extra newlines in publications on mobile */
+  p {
+    margin-bottom: 8px;
+  }
+  
+  /* Compact list items */
+  li {
+    margin-bottom: 2px;
+    line-height: 1.0;
+  }
+  
+  /* Remove all spacing from elements inside list items */
+  li * {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  /* Force all content in list items to be inline */
+  li p, li span, li a, li strong, li em {
+    display: inline !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  /* Remove line breaks */
+  li br {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 13px;
+  }
+  
+  div.centered img {
+    max-height: 250px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  /* Hide mobile navigation on desktop */
+  .mobile-nav {
+    display: none;
+  }
+  
+  div.centered {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+  }
+  div.centered img {
+    height: 400px;
+  }
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+h4 {
+  font-size: 1em;
+  font-weight: bolder;
+}
+
+ul.bibliography li { margin-top: 1.0em }
+
+p { margin-top: 1em; margin-bottom: 0 }
+
+a:link { 
+  color: #006699;
+  text-decoration: underline;
+}
+
+a:visited, A:active { color: #906; }
+
+button.aslink {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+div.right {
+  margin: 0;
+  line-height: 1.1;
+  text-align: left;
+  position: absolute;
+  top: 2em;
+  right: 5%;
+  left: 110px;
+}
+
+div.centered span {
+  line-height: 300%;
+}
+
+div.main_left {
+  margin: 0;
+  font-size: 90%;
+  font-weight: bold;
+  line-height: 1.1;
+  text-align: center;
+  position: absolute;
+  top: 0em;
+  right: auto;
+  width: 100px;
+}
+
+div.project_left {
+  margin-top: 16em;
+  font-size: 90%;
+  font-weight: bold;
+  line-height: 1.1;
+  text-align: center;
+  position: absolute;
+  top: 0em;
+  right: auto;
+  width: 90px;
+  border-right-color: black;
+  border-right: solid;
+}
+
+img.illclogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+td.bookcover {
+    border: 1px solid black;
+}
+
+hr.bookcover {
+  width:40%;
+  border-color:black;
+}
+
+pre[id*="_abstract"] {
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+pre[id*="_bibtex"] {
+  white-space: pre;
+  word-break: normal;
+  overflow-wrap: break-word;
+}

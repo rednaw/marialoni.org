@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Formal semantics and pragmatics, philosophy of language, logic.">
+  <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link type="text/css" rel="stylesheet" title="style" href="/mobile/style/style.css" />
+  <link rel="shortcut icon" href="/mobile/style/favicon.ico">
+  <title>Contact - Maria Aloni</title>
+</head>
+  <body>
+    <!-- Mobile Navigation -->
+<div class="mobile-nav">
+  <button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation menu">☰</button>
+  <div class="mobile-nav-menu" id="mobileNavMenu">
+    <a href="/mobile/">Home</a>
+    <a href="/mobile/publications">Publications</a>
+    <a href="/mobile/research">Research</a>
+    <a href="/mobile/teaching">Teaching</a>
+    <a href="/mobile/contact">Contact</a>
+    
+  </div>
+</div>
+
+<script>
+  // Mobile navigation toggle
+  function toggleMobileNav() {
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    mobileNavMenu.classList.toggle('show');
+  }
+  
+  // Close mobile nav when clicking outside
+  document.addEventListener('click', function(event) {
+    const mobileNav = document.querySelector('.mobile-nav');
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    if (!mobileNav.contains(event.target) && mobileNavMenu.classList.contains('show')) {
+      mobileNavMenu.classList.remove('show');
+    }
+  });
+</script>
+
+    
+    <div class="right">
+      <h2 id="contact-information">Contact information</h2>
+
+<p>Maria Aloni<br />
+Associate Professor Logic and Language<br />
+ILLC &amp; Philosophy<br />
+University of Amsterdam<br />
+<em>Email:</em> M.D.Aloni[at]uva[dot]nl</p>
+
+<p><strong>ILLC</strong><br />
+Science Park 107<br />
+1098 XG Amsterdam<br />
+The Netherlands<br />
+<em>Room:</em> F1.05<br />
+<em>Tel:</em> +31 20 5254537</p>
+
+<p><strong>Philosophy</strong><br />
+Oude Turfmarkt 141-143<br />
+1012 GC Amsterdam<br />
+The Netherlands<br />
+<em>Room:</em> 2.12 (OTM 143)<br />
+<em>Tel:</em> +31 20 5252189</p>
+
+    </div>
+    <div class="main_left">
+      <img alt="Spider" src="/mobile/style/spider.jpg" /><br /><br />
+      <a href="/mobile/">Home</a><br /><br />
+      <a href="/mobile/publications">Publications</a><br /><br />
+      <a href="/mobile/research">Research</a><br /><br />
+      <a href="/mobile/teaching">Teaching</a><br /><br />
+      <a href="/mobile/contact">Contact</a><br /><br />
+    </div>
+    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript>
+      <img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" />
+    </noscript>
+    <script>
+      // Ensure only one section (abstract or bibtex) is open at a time per entry
+      document.addEventListener('DOMContentLoaded', function() {
+        const collapseButtons = document.querySelectorAll('[data-toggle="collapse"]');
+        
+        collapseButtons.forEach(function(button) {
+          button.addEventListener('click', function() {
+            const targetId = this.getAttribute('data-target');
+            const entryKey = targetId.split('_')[0].substring(1);
+            const otherButton = document.querySelector(
+              targetId.includes('_abstract') 
+                ? `[data-target="#${entryKey}_bibtex"]` 
+                : `[data-target="#${entryKey}_abstract"]`
+            );
+            if (otherButton) {
+              const otherTarget = document.querySelector(otherButton.getAttribute('data-target'));
+              if (otherTarget && otherTarget.classList.contains('in')) {
+                otherButton.click();
+              }
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

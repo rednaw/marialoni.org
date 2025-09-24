@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Formal semantics and pragmatics, philosophy of language, logic.">
+  <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link type="text/css" rel="stylesheet" title="style" href="/mobile/style/style.css" />
+  <link rel="shortcut icon" href="/mobile/style/favicon.ico">
+  <title>Indefinites and beyond - Evolutionary pragmatics and typological semantics</title>
+</head>
+  <body>
+    <!-- Mobile Navigation -->
+<div class="mobile-nav">
+  <button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation menu">☰</button>
+  <div class="mobile-nav-menu" id="mobileNavMenu">
+    <a href="/mobile/">Home</a>
+    <a href="/mobile/publications">Publications</a>
+    <a href="/mobile/research">Research</a>
+    <a href="/mobile/teaching">Teaching</a>
+    <a href="/mobile/contact">Contact</a>
+    
+    <hr style="margin: 10px 0; border: 1px solid #eee;">
+    <a href="/mobile/Indefinites">Indefinites Home</a>
+    <a href="/mobile/Indefinites/people">People</a>
+    <a href="/mobile/Indefinites/results">Results</a>
+    <a href="/mobile/Indefinites/contact">Contact</a>
+    
+  </div>
+</div>
+
+<script>
+  // Mobile navigation toggle
+  function toggleMobileNav() {
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    mobileNavMenu.classList.toggle('show');
+  }
+  
+  // Close mobile nav when clicking outside
+  document.addEventListener('click', function(event) {
+    const mobileNav = document.querySelector('.mobile-nav');
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    if (!mobileNav.contains(event.target) && mobileNavMenu.classList.contains('show')) {
+      mobileNavMenu.classList.remove('show');
+    }
+  });
+</script>
+
+    
+    <div class="right">
+      <table>
+        <tr>
+          <td>
+            <img src="/mobile/style/indefinites.png" height="200" alt="Indefinites and beyond" /> 
+          </td>
+        </tr>
+      </table>
+      <p><strong>Project title:</strong> Indefinites and beyond. Evolutionary pragmatics and typological semantics.</p>
+
+<p><strong>Short description:</strong> People can and do infer information above and beyond what other people actually say. 
+Focusing on expressions with indefinite reference, this research project studies how these
+inferences based on language use can become part of literal meaning in historical processes
+of conventionalizations. To this aim the project includes a number of synchronic and diachronic
+studies of indefinite words in various languages and develops formal models of their variation
+in meaning and use.</p>
+
+<p><strong>Full description:</strong> <a href="/resources/indefinites-research-proposal.pdf">download PDF</a></p>
+
+<p><strong>Research founding:</strong> <a href="https://www.nwo.nl">NWO</a> Vidi project (2007-2012)</p>
+
+<p><strong>Principal Investigator:</strong> <a href="/mobile/">Maria Aloni</a></p>
+
+    </div>
+    <div class="project_left">
+      <a href="/mobile/Indefinites">Home</a><br/><br/>
+      <a href="/mobile/Indefinites/people">People</a><br/><br/>
+      <a href="/mobile/Indefinites/results">Results</a><br/><br/>
+      <a href="/mobile/Indefinites/contact">Contact</a><br/><br/>
+    </div>
+  </body>
+</html>

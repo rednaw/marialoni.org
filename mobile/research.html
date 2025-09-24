@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Formal semantics and pragmatics, philosophy of language, logic.">
+  <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link type="text/css" rel="stylesheet" title="style" href="/mobile/style/style.css" />
+  <link rel="shortcut icon" href="/mobile/style/favicon.ico">
+  <title>Research - Maria Aloni</title>
+</head>
+  <body>
+    <!-- Mobile Navigation -->
+<div class="mobile-nav">
+  <button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation menu">☰</button>
+  <div class="mobile-nav-menu" id="mobileNavMenu">
+    <a href="/mobile/">Home</a>
+    <a href="/mobile/publications">Publications</a>
+    <a href="/mobile/research">Research</a>
+    <a href="/mobile/teaching">Teaching</a>
+    <a href="/mobile/contact">Contact</a>
+    
+  </div>
+</div>
+
+<script>
+  // Mobile navigation toggle
+  function toggleMobileNav() {
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    mobileNavMenu.classList.toggle('show');
+  }
+  
+  // Close mobile nav when clicking outside
+  document.addEventListener('click', function(event) {
+    const mobileNav = document.querySelector('.mobile-nav');
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    if (!mobileNav.contains(event.target) && mobileNavMenu.classList.contains('show')) {
+      mobileNavMenu.classList.remove('show');
+    }
+  });
+</script>
+
+    
+    <div class="right">
+      <h2 id="area-of-interests">Area of interests</h2>
+
+<p><strong>Broad:</strong> Formal semantics and pragmatics, philosophical logic, philosophy of language.</p>
+
+<p><strong>Narrow:</strong> Quantification, modals, propositional attitudes, reference, indefinites, disjunction, indexicals, questions, imperatives, focus-topic structure, presupposition, indefinites, free choice phenomena, comparatives, ellipsis, implicatures, exhaustification, cross-linguistic semantics, diachronic semantics, corpus semantics, optimality theory, formal epistemology, quantified modal logic, bilateral modal logic, dynamic semantics, inquisitive semantics, truth-maker semantics, team logic, two-dimensional semantics.</p>
+
+<h2 id="projects">Projects</h2>
+<ul>
+  <li>
+    <p>Current. <a href="https://projects.illc.uva.nl/nihil/"><strong>N∅thing is Logical (NihiL)</strong></a>. Since January 2023 funded by the NWO through the Open Competition Grant.</p>
+
+    <p>The Nihil project studies cases of divergence between everyday and logical-mathematical reasoning.  The working hypothesis  is that these deviations are a consequence of a tendency in human cognition to neglect empty representations (neglect-zero). We (i) develop logics which formally represent the neglect-zero tendency and rigorously study its impact on interpretation; (ii) explore possible conventionalizations of neglect-zero effects in specific linguistic domains; and (iii) experimentally investigate the impact of neglect-zero in ordinary reasoning and its conjectured suspension for example in the context of a mathematical proof.</p>
+  </li>
+  <li>
+    <p>2007-2012. NWO <em>Vidi</em>-grant: <a href="/mobile/Indefinites"><strong>Indefinites and beyond. Evolutionary pragmatics and typological semantics</strong></a>. Principal Investigator.</p>
+
+    <p>People can and do infer information above and beyond what other people actually say.  Focusing on expressions with indefinite reference, this research project studies how these inferences based on language use can become part of literal meaning in historical processes of conventionalizations. To this aim the project includes a number of synchronic and diachronic studies of indefinite words in various languages and  develops formal models of their variation in meaning and use.</p>
+  </li>
+  <li>
+    <p>2004-2007. NWO <em>Veni</em>-grant: <strong>Semantic Structure and Dynamics in Natural Language Interpretation</strong>. Main Researcher.</p>
+
+    <p>The idea at the heart of this project is that semantic structures normally held to play a role in the analysis of questions and focus may enter the recursive characterization of the semantics of a much wider range of natural language expressions including free choice indefinites, disjunctions, modals, imperatives.</p>
+  </li>
+  <li>
+    <p>2005-2007. EU project Language Technology for eLearning. Support Management.</p>
+  </li>
+  <li>
+    <p>2001-2004. NWO project Formal Language Game. Researcher.</p>
+  </li>
+</ul>
+
+<h2 id="phd-thesis">PhD Thesis</h2>
+<p>Maria Aloni. <em>Quantification under Conceptual Covers</em>. PhD thesis, University of Amsterdam, Amsterdam, 2001. <a href="resources/Aloni2001.pdf">PDF</a></p>
+
+<p>The thesis (winner of the E. W. Beth Dissertation Prize in 2002) is about quantification in intensional contexts like questions, propositional attitude reports and epistemic modal sentences. First it is observed that our evaluation of these constructions crucially depends on the way in which the relevant objects are identified in the specific circumstances of the utterance. This contextual dependence is then made formally precise by representing different methods of identification and by relativizing interpretation to these methods. In this way the thesis succeeds in giving a uniform solution to three (old and recent) important problems of the theory of interpretation – the problem of the representation of the cognitive significance of identity questions, the logico-philosophical puzzle of <em>de re</em> belief ascriptions, and the technical problem of the combination of dynamic quantifiers with ‘holistic’ notions, like presupposition, modals, or support. In the final chapter of the thesis, this solution is adapted to recent pragmatic developments in optimality theoretic and game-theoretic interpretation.</p>
+
+
+    </div>
+    <div class="main_left">
+      <img alt="Spider" src="/mobile/style/spider.jpg" /><br /><br />
+      <a href="/mobile/">Home</a><br /><br />
+      <a href="/mobile/publications">Publications</a><br /><br />
+      <a href="/mobile/research">Research</a><br /><br />
+      <a href="/mobile/teaching">Teaching</a><br /><br />
+      <a href="/mobile/contact">Contact</a><br /><br />
+    </div>
+    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript>
+      <img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" />
+    </noscript>
+    <script>
+      // Ensure only one section (abstract or bibtex) is open at a time per entry
+      document.addEventListener('DOMContentLoaded', function() {
+        const collapseButtons = document.querySelectorAll('[data-toggle="collapse"]');
+        
+        collapseButtons.forEach(function(button) {
+          button.addEventListener('click', function() {
+            const targetId = this.getAttribute('data-target');
+            const entryKey = targetId.split('_')[0].substring(1);
+            const otherButton = document.querySelector(
+              targetId.includes('_abstract') 
+                ? `[data-target="#${entryKey}_bibtex"]` 
+                : `[data-target="#${entryKey}_abstract"]`
+            );
+            if (otherButton) {
+              const otherTarget = document.querySelector(otherButton.getAttribute('data-target'));
+              if (otherTarget && otherTarget.classList.contains('in')) {
+                otherButton.click();
+              }
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

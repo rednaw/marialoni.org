@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Formal semantics and pragmatics, philosophy of language, logic.">
+  <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link type="text/css" rel="stylesheet" title="style" href="/mobile/style/style.css" />
+  <link rel="shortcut icon" href="/mobile/style/favicon.ico">
+  <title>Indefinites and beyond - People</title>
+</head>
+  <body>
+    <!-- Mobile Navigation -->
+<div class="mobile-nav">
+  <button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation menu">☰</button>
+  <div class="mobile-nav-menu" id="mobileNavMenu">
+    <a href="/mobile/">Home</a>
+    <a href="/mobile/publications">Publications</a>
+    <a href="/mobile/research">Research</a>
+    <a href="/mobile/teaching">Teaching</a>
+    <a href="/mobile/contact">Contact</a>
+    
+    <hr style="margin: 10px 0; border: 1px solid #eee;">
+    <a href="/mobile/Indefinites">Indefinites Home</a>
+    <a href="/mobile/Indefinites/people">People</a>
+    <a href="/mobile/Indefinites/results">Results</a>
+    <a href="/mobile/Indefinites/contact">Contact</a>
+    
+  </div>
+</div>
+
+<script>
+  // Mobile navigation toggle
+  function toggleMobileNav() {
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    mobileNavMenu.classList.toggle('show');
+  }
+  
+  // Close mobile nav when clicking outside
+  document.addEventListener('click', function(event) {
+    const mobileNav = document.querySelector('.mobile-nav');
+    const mobileNavMenu = document.getElementById('mobileNavMenu');
+    if (!mobileNav.contains(event.target) && mobileNavMenu.classList.contains('show')) {
+      mobileNavMenu.classList.remove('show');
+    }
+  });
+</script>
+
+    
+    <div class="right">
+      <table>
+        <tr>
+          <td>
+            <img src="/mobile/style/indefinites.png" height="200" alt="Indefinites and beyond" /> 
+          </td>
+        </tr>
+      </table>
+      <p><strong>People</strong></p>
+<ul>
+  <li><a href="/mobile/">Maria Aloni</a> (PI), since November 2007</li>
+  <li><a href="https://www.uva.nl/profiel/s/c/k.schulz/k.schulz.html?cb">Katrin Schulz</a> (postdoc), November 2007 - January 2011</li>
+  <li><a href="https://www.leibniz-zas.de/en/people/details/solt-stephanie/stephanie-solt">Stephanie Solt</a> (postdoc), since March 2012</li>
+  <li><a href="https://www.uva.nl/en/profile/p/o/a.port/a.port.html">Angelika Port</a> (PhD student), since April 2008</li>
+  <li><a href="https://www.researchgate.net/scientific-contributions/Tikitu-de-Jager-70698271">Tikitu de Jager</a> (researcher), spring 2010</li>
+  <li><a href="https://www.ivanociardelli.altervista.org/">Ivano Ciardelli</a> (researcher), fall 2009</li>
+</ul>
+
+<p><strong>External Collaborators</strong></p>
+<ul>
+  <li><a href="https://sites.google.com/site/agostana/">Ana Aguilar-Guevara</a></li>
+  <li><a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernandez Rovira</a></li>
+  <li><a href="https://www.florisroelofsen.com/">Floris Roelofsen</a></li>
+  <li><a href="https://www.radeksimik.eu/">Radek Simik</a></li>
+  <li><a href="https://scholar.google.com/citations?user=DfLLivcAAAAJ">Machteld de Vos</a></li>
+  <li><a href="https://www.heddezeijlstra.org/">Hedde Zeijlstra</a></li>
+</ul>
+
+    </div>
+    <div class="project_left">
+      <a href="/mobile/Indefinites">Home</a><br/><br/>
+      <a href="/mobile/Indefinites/people">People</a><br/><br/>
+      <a href="/mobile/Indefinites/results">Results</a><br/><br/>
+      <a href="/mobile/Indefinites/contact">Contact</a><br/><br/>
+    </div>
+  </body>
+</html>
