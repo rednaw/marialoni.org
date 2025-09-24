@@ -12,8 +12,22 @@ body {
   display: none;
 }
 
-.collapse.show {
+.collapse.show,
+.collapse.in {
   display: block;
+}
+
+/* Ensure collapse content uses proper font and background */
+.collapse pre,
+pre[id*="_abstract"],
+pre[id*="_bibtex"] {
+  font-family: "Computer Modern Serif", serif;
+  font-size: 14px;
+  line-height: 1.4;
+  background-color: #f8f9fa;
+  padding: 8px;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
 }
 
 /* Button styles for collapse */
@@ -34,19 +48,6 @@ button.aslink:hover {
   color: #004466;
 }
 
-/* Collapse content styling */
-.collapse pre {
-  font-family: "Computer Modern Serif", serif;
-  font-size: 14px;
-  line-height: 1.4;
-  margin: 8px 0;
-  padding: 8px;
-  background: #f8f9fa;
-  border: 1px solid #e9ecef;
-  border-radius: 4px;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-}
 
 /* Mobile-first responsive design */
 @media only screen and (max-width: 768px) {

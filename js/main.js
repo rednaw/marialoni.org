@@ -30,13 +30,13 @@ function initCollapse() {
       
       if (otherButton) {
         const otherTarget = document.querySelector(otherButton.getAttribute('data-target'));
-        if (otherTarget && otherTarget.classList.contains('show')) {
-          otherTarget.classList.remove('show');
+        if (otherTarget && otherTarget.classList.contains('in')) {
+          otherTarget.classList.remove('in');
         }
       }
       
       // Toggle current element
-      target.classList.toggle('show');
+      target.classList.toggle('in');
     });
   });
 }
