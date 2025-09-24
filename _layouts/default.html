@@ -2,46 +2,27 @@
 <html lang="en">
   {% include html_head.html %}
   <body>
-    {% include mobile_nav.html %}
-    
+    <!-- Mobile Navigation (hidden on desktop) -->
+    <div class="mobile-nav">
+      <button class="mobile-nav-toggle" aria-label="Toggle navigation menu">☰</button>
+      <div class="mobile-nav-menu">
+        {% include main_nav_links.html %}
+      </div>
+    </div>
+        
+    <!-- Desktop Navigation (hidden on mobile) -->
+    <div class="main_left">
+      <img alt="Spider" src="{{ site.baseurl }}/style/spider.jpg" /><br /><br />
+      {% include main_nav_links.html %}
+    </div>
+
     <div class="right">
       {{ content }}
     </div>
-    <div class="main_left">
-      <img alt="Spider" src="{{ site.baseurl }}/style/spider.jpg" /><br /><br />
-      <a href="{{ site.baseurl }}/">Home</a><br /><br />
-      <a href="{{ site.baseurl }}/publications">Publications</a><br /><br />
-      <a href="{{ site.baseurl }}/research">Research</a><br /><br />
-      <a href="{{ site.baseurl }}/teaching">Teaching</a><br /><br />
-      <a href="{{ site.baseurl }}/contact">Contact</a><br /><br />
-    </div>
+    
     <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     <noscript>
       <img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" />
     </noscript>
-    <script>
-      // Ensure only one section (abstract or bibtex) is open at a time per entry
-      document.addEventListener('DOMContentLoaded', function() {
-        const collapseButtons = document.querySelectorAll('[data-toggle="collapse"]');
-        
-        collapseButtons.forEach(function(button) {
-          button.addEventListener('click', function() {
-            const targetId = this.getAttribute('data-target');
-            const entryKey = targetId.split('_')[0].substring(1);
-            const otherButton = document.querySelector(
-              targetId.includes('_abstract') 
-                ? `[data-target="#${entryKey}_bibtex"]` 
-                : `[data-target="#${entryKey}_abstract"]`
-            );
-            if (otherButton) {
-              const otherTarget = document.querySelector(otherButton.getAttribute('data-target'));
-              if (otherTarget && otherTarget.classList.contains('in')) {
-                otherButton.click();
-              }
-            }
-          });
-        });
-      });
-    </script>
   </body>
 </html>
