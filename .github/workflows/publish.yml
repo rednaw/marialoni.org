@@ -29,22 +29,27 @@ jobs:
 
       - name: Build 🔨
         run: |
-          if [ "${{ github.ref_name }}" = "main" ]; then
-            ./build.sh
+          if [ "${{ github.ref_name }}" = "mobile" ]; then
+            echo "Building mobile site with baseurl=/mobile..."
+            JEKYLL_ENV=production BASEURL="/mobile" RUBYOPT="-W0" bundle exec jekyll build --strict
           else
-            RUBYOPT="-W0" bundle exec jekyll build --strict --config _config.yml,_config_mobile.yml
+            ./build.sh
           fi
         continue-on-error: false
 
-      - name: Set deployment path 🎯
-        id: set-path
+      - name: Prepare deployment 🎯
         run: |
-          if [ "${{ github.ref_name }}" = "main" ]; then
-            echo "path=" >> $GITHUB_OUTPUT
-            echo "site_name=Main Site" >> $GITHUB_OUTPUT
+          if [ "${{ github.ref_name }}" = "mobile" ]; then
+            echo "Deploying mobile site to /mobile directory"
+            # Create mobile directory and move _site contents there
+            mkdir -p mobile
+            cp -r _site/* mobile/
+            rm -rf _site
+            mkdir -p _site
+            cp -r mobile _site/
           else
-            echo "path=/mobile" >> $GITHUB_OUTPUT
-            echo "site_name=Mobile Site" >> $GITHUB_OUTPUT
+            echo "Deploying main site to root"
+            # Keep _site as is for main branch
           fi
 
       - name: Deploy 🚀
@@ -52,4 +57,3 @@ jobs:
         with:
           branch: gh-pages 
           folder: _site
-          target-folder: ${{ steps.set-path.outputs.path }}
