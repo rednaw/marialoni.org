@@ -29,11 +29,11 @@ jobs:
 
       - name: Build 🔨
         run: |
-          if [ "${{ github.ref_name }}" = "main" ]; then
-            ./build.sh
-          else
+          if [ "${{ github.ref_name }}" = "mobile" ]; then
             echo "Building mobile site with baseurl=/mobile..."
             JEKYLL_ENV=production BASEURL="/mobile" RUBYOPT="-W0" bundle exec jekyll build --strict
+          else
+            ./build.sh
           fi
         continue-on-error: false
 
