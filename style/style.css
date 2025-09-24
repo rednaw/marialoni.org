@@ -9,19 +9,192 @@ body {
   font-size: 16px;  
 }
 
-@media only screen and (max-width: 480px) {
+/* Mobile-first responsive design */
+@media only screen and (max-width: 768px) {
   body {
-    max-width: 700px;
-    padding: 12px;
-    padding-bottom: 0;
+    padding: 8px;
+    margin-right: 0;
+  }
+  
+  /* Hide desktop navigation on mobile */
+  div.main_left, div.project_left {
+    display: none;
+  }
+  
+  /* Mobile navigation */
+  .mobile-nav {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+    z-index: 1000;
+    padding: 8px 10px;
+    box-sizing: border-box;
+  }
+  
+  .mobile-nav-toggle {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 10px;
+    min-width: 44px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .mobile-nav-toggle:hover {
+    background: #f0f0f0;
+  }
+  
+  .mobile-nav-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .mobile-nav-menu.show {
+    display: block;
+  }
+  
+  .mobile-nav-menu a {
+    display: block;
+    padding: 12px 16px;
+    text-decoration: none;
+    color: #006699;
+    border-bottom: 1px solid #eee;
+    transition: background-color 0.2s;
+  }
+  
+  .mobile-nav-menu a:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .mobile-nav-menu a:last-child {
+    border-bottom: none;
+  }
+  
+  .mobile-nav-menu hr {
+    margin: 8px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+  }
+  
+  /* Adjust main content for mobile */
+  div.right {
+    position: static !important;
+    margin-top: 80px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0 10px !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    max-width: none !important;
+    top: auto !important;
+  }
+  
+  div.centered {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  div.centered h2 {
+    text-align: center;
+    margin-bottom: 15px;
   }
   
   div.centered img {
-    height: 300px;
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto 15px auto;
+  }
+  
+  div.centered span {
+    display: block;
+    margin-top: 15px;
+  }
+  
+  /* Responsive typography and spacing */
+  body {
+    font-size: 14px;
+  }
+  
+  h2 {
+    font-size: 1.3em;
+  }
+  
+  h4 {
+    font-size: 0.9em;
+  }
+  
+  p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  
+  /* Touch-friendly elements */
+  a {
+    min-height: 44px;
+    display: inline-block;
+    line-height: 44px;
+  }
+  
+  button.aslink {
+    min-height: 44px;
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+  
+  /* Responsive tables */
+  .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Bibliography styling */
+  ul.bibliography {
+    padding-left: 0;
+  }
+  
+  ul.bibliography li {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 3px solid #006699;
+    background: #f9f9f9;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 13px;
+  }
+  
+  div.centered img {
+    max-height: 250px;
   }
 }
 
 @media only screen and (min-width: 481px) {
+  /* Hide mobile navigation on desktop */
+  .mobile-nav {
+    display: none;
+  }
+  
   div.centered {
     margin: auto;
     width: 75%;
