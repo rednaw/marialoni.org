@@ -29,7 +29,11 @@ jobs:
 
       - name: Build 🔨
         run: |
-          ./build.sh
+          if [ "${{ github.ref_name }}" = "main" ]; then
+            ./build.sh
+          else
+            RUBYOPT="-W0" bundle exec jekyll build --strict --config _config.yml,_config_mobile.yml
+          fi
         continue-on-error: false
 
       - name: Set deployment path 🎯
