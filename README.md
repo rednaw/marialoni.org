@@ -15,7 +15,7 @@ The most important directories and files are:
 After initial setup (see below) changes are done in three steps:
 1. **Make changes** by editing content and/or adding resources.  
     Content pages are written in Markdown, see the [basic syntax guide](https://www.markdownguide.org/basic-syntax/) for a quick overview. **Note** It is not mandatory to use Markdown, it is also fine to just write plain HTML. With some restrictions it is even possible to mix the two in one file.
-2. **Preview:** in a terminal type `jekyll serve` and go to http://localhost:4000/.  
+2. **Preview:** run `npm start` to build assets and start Jekyll server, then go to http://localhost:4000/.  
     It is not mandatory but recommended to do a preview before publishing because it is possible that a small unnoticed typo causes the site generation to fail after which your changes will not be published. 
 3. **Publish**  is automated after pushing or merging to the default (`main`) branch  
     This will take care that your changes are made public.
@@ -25,7 +25,11 @@ After initial setup (see below) changes are done in three steps:
 This site
 - is deployed using [GitHub Pages](https://pages.github.com/)
 - uses [Jekyll](https://jekyllrb.com/) as web framework
-- uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme), a Jekyll extension for parsing BibTex files.
+- uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme), a Jekyll extension for parsing BibTex files
+- uses [Vite](https://vitejs.dev/) for modern JavaScript asset bundling
+- uses [Bootstrap 5](https://getbootstrap.com/) and [jQuery](https://jquery.com/) for UI components
+
+For detailed JavaScript setup instructions, see [JS_SETUP.md](JS_SETUP.md).
 
 #### System wide setup, one time only, as user with administrator privileges.
 - [Install Homebrew](https://brew.sh/)

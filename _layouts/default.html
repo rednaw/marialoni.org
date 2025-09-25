@@ -17,29 +17,6 @@
     <noscript>
       <img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" />
     </noscript>
-    <script>
-      // Ensure only one section (abstract or bibtex) is open at a time per entry
-      document.addEventListener('DOMContentLoaded', function() {
-        const collapseButtons = document.querySelectorAll('[data-toggle="collapse"]');
-        
-        collapseButtons.forEach(function(button) {
-          button.addEventListener('click', function() {
-            const targetId = this.getAttribute('data-target');
-            const entryKey = targetId.split('_')[0].substring(1);
-            const otherButton = document.querySelector(
-              targetId.includes('_abstract') 
-                ? `[data-target="#${entryKey}_bibtex"]` 
-                : `[data-target="#${entryKey}_abstract"]`
-            );
-            if (otherButton) {
-              const otherTarget = document.querySelector(otherButton.getAttribute('data-target'));
-              if (otherTarget && otherTarget.classList.contains('in')) {
-                otherButton.click();
-              }
-            }
-          });
-        });
-      });
-    </script>
+    <script src="{{ site.baseurl }}/{{ site.assets_dir }}/js/bundle.js"></script>
   </body>
 </html>

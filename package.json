@@ -1,0 +1,27 @@
+{
+  "name": "marialoni.org",
+  "version": "1.0.0",
+  "description": "Academic website for Maria Aloni",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite build --watch",
+    "serve": "jekyll serve",
+    "start": "npm run build && concurrently \"npm run dev\" \"npm run serve\"",
+    "preview": "vite preview",
+    "build:jekyll": "RUBYOPT=\"-W0\" bundle exec jekyll build --strict",
+    "build:production": "npm run build && npm run build:jekyll",
+    "check:assets": "test -d assets || (echo '⚠️  Warning: assets directory not found. Run npm run build first.' && exit 1)"
+  },
+  "keywords": ["jekyll", "academic", "website"],
+  "author": "Maria Aloni",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1"
+  }
+}

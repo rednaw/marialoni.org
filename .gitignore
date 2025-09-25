@@ -4,3 +4,10 @@ _site
 
 # finder
 .DS_Store
+
+# node
+node_modules
+package-lock.json
+
+# assets (built files)
+assets/

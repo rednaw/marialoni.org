@@ -18,12 +18,12 @@
   <a href=" {{ site.baseurl }}/resources/{{ entry.slides }}">[slides]</a>
   {% endif %}
   {% if entry.abstract %}
-  <button class="aslink" data-toggle="collapse" data-target="#{{entry.key}}_abstract">[abstract]</button>
+  <button class="aslink" data-bs-toggle="collapse" data-bs-target="#{{entry.key}}_abstract">[abstract]</button>
   {% endif %}
-  <button class="aslink" data-toggle="collapse" data-target="#{{entry.key}}_bibtex">[BibTex]</button>
+  <button class="aslink" data-bs-toggle="collapse" data-bs-target="#{{entry.key}}_bibtex">[BibTex]</button>
   <div>
     {% if entry.abstract %}
-    <pre id="{{entry.key}}_abstract" class="collapse">{{ entry.abstract }}</pre>
+    <div id="{{entry.key}}_abstract" class="collapse abstract-content">{{ entry.abstract }}</div>
     {% endif %}
     <pre id="{{entry.key}}_bibtex" class="collapse">{{ entry.bibtex }}</pre>
   </div>
