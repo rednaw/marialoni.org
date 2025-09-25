@@ -7,7 +7,6 @@ _site
 
 # node
 node_modules
-package-lock.json
 
 # assets (built files)
 assets/
