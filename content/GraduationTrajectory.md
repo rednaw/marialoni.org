@@ -49,7 +49,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 19 Nov:  no class 
 * Wed, 26 Nov:  no class
 * Wed, 3 Dec:   MoL course presentations for second semester   (TBC)
-* Wed, 9 Dec:  MoL January project presentations  (TBC)
+* Wed, 10 Dec:  MoL January project presentations  (TBC)
 * Wed, 17 Dec: no class (exam week)
 
 ### 3rd Period
