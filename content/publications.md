@@ -6,6 +6,9 @@ permalink: ./publications
 
 ## Recent presentations
 
+* M Aloni. Nothing is Logical, [slides](resources/Oxford25.pdf)
+Oxford Colloquium in Linguistics and Philosophy, University of Oxford,17 October 2025
+
 * M Aloni. Nothing is Logical (with overview of recent experiments), [slides](resources/BielefeldMay25.pdf)
 Linguistics Colloquium, Bielefeld University, 14 May 2025
 
