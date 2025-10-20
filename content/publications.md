@@ -19,7 +19,7 @@ cross-linguistic variation. [slides](resources/Bologna24.pdf) FoDS 9, Bologna, N
 [slides](resources/FCworkshop24.pdf),
 [Free Choice Inferences: Theoretical and experimental approaches](https://sites.google.com/view/acquisitiondisjunctionromanian/fc-workshop?authuser=0), 15 May 2024
  
-* M Aloni (joint work with M Degano). (Non-)specificity across languages: constancy, variation, v-variation, [slides](resources/Berlin24.pdf) Presented at ZAS semantic circle talk, Berlin, 25 June 2024;
+* M Aloni (joint work with M Degano). (Non-)specificity across languages: constancy, variation, v-variation, [slides](resources/Berlino24.pdf) Presented at ZAS semantic circle talk, Berlin, 25 June 2024;
 NYU Semantics Group Meeting, 12 October 2023.
 
 * M Aloni. Nothing is Logical, [slides](resources/NYU23.pdf)
