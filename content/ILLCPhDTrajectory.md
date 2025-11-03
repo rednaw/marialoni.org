@@ -40,8 +40,8 @@ The lectures are normally scheduled on Monday afternoon.
 
 ### 1st Semester   		 	 
 * Monday, 29 September, 16.00-17.00, room F1.15, ILLC: Introduction (with drinks and pizza afterwards)
-* Monday, 27 October, 15.00-17.00, location (TBA):  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
+* Monday, 27 October, 15.00-17.00:  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
 * every Monday, Sep-Dec, 17.00-19.00,  [LoLaCo lectures](https://datanose.nl/#course[137520]) (3 obligatory)    	 
-* Monday, 26 January, 10-17, ILLC PhD day (TBC)
+* Monday, 26 January, 10-17, ILLC PhD day [please submit your abstract via email to phd-illc@uva.nl by 31 December 2025. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation]
   
 ### 2nd Semester (TBA)
