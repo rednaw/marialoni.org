@@ -29,9 +29,9 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 * Monthly meetings with a scientific + soft skills programme, some of the sessions open to the whole PhD community:
 
 1. Introduction [September]
-2. DEI/active bystander training (with supervisors) [October]
-3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130027)   (at least 3 lecturers obligatory) [September-December]
-4. ILLC PhD day:  (Poster) presentations given by new and senior ILLC PhD candidates (January)
+2. DEI/active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/) [October]
+3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130027)   (at least 3 lecturers obligatory, MoL alumni exempted) [September-December]
+4. ILLC PhD day:  (Poster) presentations given by new and senior ILLC PhD candidates. ILLC PhD candidates should submit their abstract via email to phd-illc@uva.nl by 31 December 2025. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation] [January]
 5. Academic writing  ([Krzysztof R. Apt](https://homepages.cwi.nl/~apt/), [Martin Stokhof](https://stokhof.org) and [Khalil Sima'an](https://sites.google.com/site/khalilsimaaan/home/computational-linguistics) (TBC)) [April,TBC]
 6. Presentation skills [May, TBC]
  
@@ -42,6 +42,6 @@ The lectures are normally scheduled on Monday afternoon.
 * Monday, 29 September, 16.00-17.00, room F1.15, ILLC: Introduction (with drinks and pizza afterwards)
 * Monday, 27 October, 15.00-17.00:  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
 * every Monday, Sep-Dec, 17.00-19.00,  [LoLaCo lectures](https://datanose.nl/#course[137520]) (3 obligatory)    	 
-* Monday, 26 January, 10-17, ILLC PhD day [please submit your abstract via email to phd-illc@uva.nl by 31 December 2025. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation]
+* Monday, 26 January, 10-17, ILLC PhD day  (deadline abstract submission 31 December 2025)
   
 ### 2nd Semester (TBA)
