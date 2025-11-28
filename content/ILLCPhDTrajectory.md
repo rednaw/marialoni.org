@@ -26,14 +26,14 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 * Mandatory for 1st year ILLC PhD candidates (excluding CWI);
 * Start in September 2025;
 * New PhDs can join all year long. If they miss one (obligatory) session in year 1, they can follow it in year 2;
-* Monthly meetings with a scientific + soft skills programme, some of the sessions open to the whole PhD community:
+* Monthly meetings with a scientific + transferrable skills programme, some of the sessions open to the whole PhD community:
 
 1. Introduction [September]
 2. DEI/active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/) [October]
 3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130027)   (at least 3 lecturers obligatory, MoL alumni exempted) [September-December]
-4. ILLC PhD day:  (Poster) presentations given by new and senior ILLC PhD candidates. ILLC PhD candidates should submit their abstract via email to phd-illc@uva.nl by 31 December 2025. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation] [January]
-5. Academic writing  ([Krzysztof R. Apt](https://homepages.cwi.nl/~apt/), [Martin Stokhof](https://stokhof.org) and [Khalil Sima'an](https://sites.google.com/site/khalilsimaaan/home/computational-linguistics) (TBC)) [April,TBC]
-6. Presentation skills [May, TBC]
+4. ILLC PhD day:  (Poster) presentations given by new and senior ILLC PhD candidates. PhD candidates who want to present their work should submit their abstract via email to phd-illc@uva.nl by 31 December 2025. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation. First-year PhD candidates (those who started in 2025) are further expected to give a short (max 3 minute) one single static slide presentation to introduce themselves to the ILLC community.  [January]
+5. Academic writing: The Academic Writing training will be offered by senior ILLC researchers representative of different areas of ILLC (in 2026,[Krzysztof R. Apt](https://homepages.cwi.nl/~apt/), [Martin Stokhof](https://stokhof.org) and [Khalil Sima'an](https://sites.google.com/site/khalilsimaaan/home/computational-linguistics))) and will include plenary presentations by the instructors and individual feedback on writing samples submitted by the participants.    [May-June]
+6. Presentation skills [April-May]
  
 ## Schedule 2025/26 (subject to change)
 The lectures are normally scheduled on Monday afternoon. 
@@ -41,7 +41,9 @@ The lectures are normally scheduled on Monday afternoon.
 ### 1st Semester   		 	 
 * Monday, 29 September, 16.00-17.00, room F1.15, ILLC: Introduction (with drinks and pizza afterwards)
 * Monday, 27 October, 15.00-17.00:  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
-* every Monday, Sep-Dec, 17.00-19.00,  [LoLaCo lectures](https://datanose.nl/#course[137520]) (3 obligatory)    	 
-* Monday, 26 January, 10-17, ILLC PhD day  (deadline abstract submission 31 December 2025)
+* every Monday, Sep-Dec, 17.00-19.00:  [LoLaCo lectures](https://datanose.nl/#course[137520]) (3 obligatory)    	 
+* Monday, 26 January, 10.00-17.00: ILLC PhD day  (deadline abstract submission 31 December 2025)
   
-### 2nd Semester (TBA)
+### 2nd Semester (TBC)
+* Presentation skills (time and location TBA)
+* Monday, 1 June, 11.00-16.00: Academic Writing 
