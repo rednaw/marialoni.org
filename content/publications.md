@@ -6,7 +6,7 @@ permalink: ./publications
 
 ## Recent presentations
 
-* M Aloni. Nothing is Logical, [slides](resources/ParisA25.pdf) & Modelling and experimenting with zero-models, [slides](resources/ParisB25.pdf). Annual LINGUAE lectures 2025, IJN, Paris,  10 & 11 December 2025 
+* M Aloni. Nothing is Logical, [slides](resources/Paris25A.pdf) & Modelling and experimenting with zero-models, [slides](resources/Paris25B.pdf). Annual LINGUAE lectures 2025, IJN, Paris,  10 & 11 December 2025 
 
 * M Aloni. Nothing is Logical, [slides](resources/Oxford25.pdf)
 Oxford Colloquium in Linguistics and Philosophy, University of Oxford, 17 October 2025
