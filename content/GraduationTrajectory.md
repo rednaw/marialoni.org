@@ -55,14 +55,14 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 ### 3rd Period
 * Wed, 7 Jan:  no class
 * Wed, 14 Jan: no class   
-* Wed, 21 Jan: student topic presentations 
-* Wed, 28 Jan: student topic presentations 
+* Wed, 21 Jan: no class 
+* Wed, 28 Jan: no class 
 
 ### 4th Period
 * Wed, 4 Feb: student topic presentations
 * Wed, 11 Feb: student topic presentations
 * Wed, 18 Feb: no class
-* Wed, 25 Feb: Scientific Integrity - Martin Stokhof  (TBC)
+* Wed, 25 Feb: Scientific Integrity - Martin Stokhof   
 * Wed, 4 March: How to write a MoL thesis   (TBC)
 * Wed, 11 March: no class
 * Wed, 18 March: no class
