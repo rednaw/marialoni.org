@@ -63,8 +63,8 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 11 Feb: student topic presentations
 * Wed, 18 Feb: no class
 * Wed, 25 Feb: Scientific Integrity - Martin Stokhof   
-* Wed, 4 March: How to write a MoL thesis   (TBC)
-* Wed, 11 March: no class
+* Wed, 4 March: no class
+* Wed, 11 March: How to write a MoL thesis (with presentations by recent MoL graduates who are now ILLC PhD candidates) 
 * Wed, 18 March: no class
 * Wed, 25 March: no class 
 
