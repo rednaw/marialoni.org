@@ -44,6 +44,7 @@ The lectures are normally scheduled on Monday afternoon.
 * every Monday, Sep-Dec, 17.00-19.00:  [LoLaCo lectures](https://datanose.nl/#course[137520]) (3 obligatory)    	 
 * Monday, 26 January, 10.00-17.00: ILLC PhD day  (deadline abstract submission 31 December 2025)
   
-### 2nd Semester (TBC)
-* Presentation skills (time and location TBA)
+### 2nd Semester 
+* Monday, 16 March, 14.00-16.30: Presentation skills  
+* Monday, 18 May, 17.00-19.00: Life after ILLC 
 * Monday, 1 June, 11.00-16.00: Academic Writing 
