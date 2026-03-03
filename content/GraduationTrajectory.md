@@ -73,7 +73,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 8 April: Plenary MoL thesis presentations: Logic and Computation  
 * Wed, 15 April: Plenary MoL thesis presentations: Logic and Philosophy 
 * Wed, 22 April: Plenary MoL thesis presentations: Logic and Language
-* Mon, 18 May:  MoL June project presentations (TBC)
+* Mon, 18 May: Life after ILLC
 * Wed, 20 May:  MoL course presentations for first semester 26/27 (TBC)
 
 [Schedule of 24/25]({{ "/GradTraj24_25" | relative_url }})
