@@ -99,7 +99,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 19.00-19.10 *Questions*    
 
-## Wed, 21 April: Logic and Language
+## Wed, 22 April: Logic and Language
 
 17.00-17.10 Raya Mezeklieva [Fausto Carcassi & Giorgio Sbardolini]
 
