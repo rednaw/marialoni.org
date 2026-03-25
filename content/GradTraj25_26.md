@@ -15,7 +15,7 @@ permalink: ./GradTraj25_26
 
 The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.112 & zoom**  [https://uva-live.zoom.us/j/63449968266](https://uva-live.zoom.us/j/63449968266)  
 
-## Wed, 1 April: Logic and Mathematics 
+### Wed, 1 April: Logic and Mathematics 
  
 17.00-17.10 Max Wehmeier [Benno v.d. Berg] 
 
@@ -47,7 +47,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 19.10-19.20 *Questions*   
 
-## Wed, 8 April: Logic and Computation
+### Wed, 8 April: Logic and Computation
 
 17.00-17.10 Vighnesh Iyer [Ronald de Haan] 
 
@@ -69,7 +69,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.30-18.40 *Questions*  
   
-## Wed, 15 April: Logic and Philosophy 
+### Wed, 15 April: Logic and Philosophy 
 
 17.00-17.10 Matteo Mercuri [Ulle Endriss & Pablo Rivas-Robledo] 
 
@@ -99,7 +99,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 19.00-19.10 *Questions*    
 
-## Wed, 22 April: Logic and Language
+### Wed, 22 April: Logic and Language
 
 17.00-17.10 Raya Mezeklieva [Fausto Carcassi & Giorgio Sbardolini]
 
