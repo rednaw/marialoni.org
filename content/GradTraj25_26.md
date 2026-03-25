@@ -112,7 +112,3 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 17.40-17.50 Giacomo Bruno Ruggero de Antonellis [Benno v.d. Berg]
 
 17.50-18.00 *Questions*
-
- 
-* Mon, 19 May: MoL June project presentations
-* Wed, 21 May:  MoL course presentations for first semester 25/26
