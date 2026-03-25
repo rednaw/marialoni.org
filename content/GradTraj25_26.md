@@ -13,7 +13,7 @@ permalink: ./GradTraj25_26
   <img src="{{ site.baseurl }}/resources/MoL.png" alt="MoL" width="50%" class="MoL"/>
 </a>
 
-The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.112 & zoom**  [https://uva-live.zoom.us/j/63449968266](https://uva-live.zoom.us/j/63449968266)
+The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.112 & zoom**  [https://uva-live.zoom.us/j/63449968266](https://uva-live.zoom.us/j/63449968266)  
 
 ## Wed, 1 April: Logic and Mathematics 
  
@@ -45,7 +45,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 19.00-19.10 Estel Koole [Yde Venema]
 
-19.10-19.20 *Questions* 
+19.10-19.20 *Questions*   
 
 ## Wed, 8 April: Logic and Computation
 
@@ -67,7 +67,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.20-18.30 Cezary Klamra [Malvin Gattinger & Jelle Zuidema]
 
-18.30-18.40 *Questions*
+18.30-18.40 *Questions*  
   
 ## Wed, 15 April: Logic and Philosophy 
 
@@ -97,7 +97,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.50-19.00 Thiago J. Cocco Roque [Sebastian de Haro]
 
-19.00-19.10 *Questions*  
+19.00-19.10 *Questions*    
 
 ## Wed, 21 April: Logic and Language
 
