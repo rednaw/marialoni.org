@@ -15,6 +15,7 @@ permalink: ./GradTraj24_25
 
 The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.112 and zoom** [https://uva-live.zoom.us/j/84328320984](https://uva-live.zoom.us/j/84328320984)
 
+<br>
 
 ### Wed, 2 April: Logic and Mathematics (updated)
 [NB: We will start 15 minutes later because of an overlap with the LLAMA seminar]
@@ -47,6 +48,8 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 19.15-19.25 *Questions*
 
+<br>
+
 ### Wed, 9 April: Logic and Computation
 
 17.00-17.10 Otto de Jong [Ronald de Haan]
@@ -70,7 +73,8 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 18.25-18.35 Simon Chiu [Marianna Girlando, Malvin Gattinger]
 
 18.35-18.45 *Questions*
- 
+
+<br>
 
 ### Wed, 16 April: Logic and Philosophy 
 
@@ -100,6 +104,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.50-19.00 *Questions*  
 
+<br>
 
 ### Wed, 23 April: Logic and Language
 
