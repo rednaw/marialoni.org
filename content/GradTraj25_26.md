@@ -63,11 +63,10 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.00-18.10 David Kühnemann [Chris Schaffner & Lisa Kohl]
 
-18.10-18.20 Jay Warnock [Balder ten Cate & Nick Bezhanishvilli]
+18.10-18.20 Cezary Klamra [Malvin Gattinger & Jelle Zuidema] 
 
-18.20-18.30 Cezary Klamra [Malvin Gattinger & Jelle Zuidema]
+18.20-18.30 *Questions*   
 
-18.30-18.40 *Questions*  
   
 ### Wed, 15 April: Logic and Philosophy 
 
@@ -105,10 +104,12 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.10-17.20 Gidon Kaminer [Fausto Carcassi]
 
-17.20-17.30 *Questions*
+17.20-17.30 Shihui Li [Jelke Bloem]* 
 
-17.30-17.40 Shihui Li [Jelke Bloem]
+17.30-17.40 *Questions*
 
 17.40-17.50 Giacomo Bruno Ruggero de Antonellis [Benno v.d. Berg]
 
-17.50-18.00 *Questions*
+17.50-18.00 Jay Warnock [Balder ten Cate & Nick Bezhanishvilli]
+
+18.00-18.10 *Questions*
