@@ -37,7 +37,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.25-18.30 *Break*
 
-18.30-18.40 Noam Cohen [Yde Venema & Sebastian Enqvist] 
+18.30-18.40 Noam Cohen [Yde Venema & Sebastian Enqvist] (cancelled)
 
 18.40-18.50 Milan Hartwig [Clemens Kupke & Yde Venema]
 
@@ -90,7 +90,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 18.25-18.30 *Break*
 
-18.30-18.40 Albert Thayssen [Sonja Smets] 
+18.30-18.40 Albert Thayssen [Sonja Smets] (online)
 
 18.40-18.50 Yiwei Liang [Aybuke Ozgun& Sonja Smets] 
 
