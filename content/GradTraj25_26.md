@@ -72,7 +72,7 @@ The presentations are schedules on **Wednesday, starting at 5pm in room SP C1.11
 
 17.00-17.10 Matteo Mercuri [Ulle Endriss & Pablo Rivas-Robledo] 
 
-17.10-17.20 Natasha de Kriek [Tom Schoonen]
+17.10-17.20 Natasha de Kriek [Tom Schoonen] (cancelled)
 
 17.20-17.30 Andrea Sanders [Tom Schoonen]
 
