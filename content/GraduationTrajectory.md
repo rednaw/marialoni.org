@@ -29,52 +29,51 @@ The goal of the MoL graduation trajectory is to provide 2nd year MoL students in
 NOTE: The trajectory is designed for 2nd year MoL students who intend to graduate in the second semester. But also for students starting their thesis writing semester in September, who intend to graduate in the first semester. Students from other cohorts or Logic Year students are also welcome to attend the sessions (in particular the research units presentations). Also 2nd year students who intend to take an extra semester can follow the trajectory this year [advisable for those components that will come too late for them next year such as the research seminars, the January presentations, how to write a MoL thesis] but will have to do their MoL thesis presentation in the next fall.
 
 
-## Schedule 2025/26 (subject to change)
+## Schedule 2026/27 (subject to change)
 The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 
 ### 1st Period   		 	 
-* Wed, 3 Sep: no class
-* Wed, 10 Sep: no class  
-* Wed, 17 Sep: Introduction (Maria Aloni) & info on PhD applications    		 
-* Wed, 24 Sep: no class            
-* Wed, 1 Oct:  no class   
-* Wed, 8 Oct:  Presentations of possible thesis topics (ILLC researchers) 
-* Wed, 15 Oct: Presentations of possible thesis topics (ILLC researchers)  
-* Wed, 22 Oct: no class (exam week)    	 
+* Wed, 2 Sep: no class
+* Wed, 9 Sep: no class  
+* Wed, 16 Sep: no class    		 
+* Wed, 23 Sep: Introduction (Maria Aloni) & info on PhD applications            
+* Wed, 30 Sep:  Presentations of possible thesis topics (ILLC researchers)  
+* Wed, 7 Oct:  Presentations of possible thesis topics (ILLC researchers) 
+* Wed, 14 Oct: no class   
+* Wed, 21 Oct: no class (exam week)    	 
 
 ### 2nd Period
-* Wed, 29 Oct: Plenary MoL thesis presentations (students graduating in Semester 1)
-* Wed, 5 Nov:  Plenary MoL thesis presentations (students graduating in Semester 1) 
-* Wed, 12 Nov: How to write a research proposal (Arianna Betti)  [NB: we start at 17.30]
-* Wed, 19 Nov:  no class 
-* Wed, 26 Nov:  MoL course presentations for second semester
-* Wed, 3 Dec:   no class
-* Wed, 10 Dec:  MoL January project presentations  (TBC)
-* Wed, 17 Dec: no class (exam week)
+* Wed, 28 Oct: no class
+* Wed, 4 Nov:  no class
+* Wed, 11 Nov: Plenary MoL thesis presentations (students graduating in Semester 1) 
+* Wed, 18 Nov: Plenary MoL thesis presentations (students graduating in Semester 1)
+* Wed, 25 Nov: How to write a research proposal (Arianna Betti) [TBC]
+* Wed, 2 Dec:  TBA
+* Wed, 9 Dec:  TBA 
+* Wed, 16 Dec: no class (exam week)
 
 ### 3rd Period
-* Wed, 7 Jan:  no class
-* Wed, 14 Jan: no class   
-* Wed, 21 Jan: no class 
-* Wed, 28 Jan: no class 
+* Wed, 6 Jan:  no class
+* Wed, 13 Jan: no class   
+* Wed, 20 Jan: student topic presentations
+* Wed, 27 Jan: student topic presentations
 
 ### 4th Period
-* Wed, 4 Feb: student topic presentations
-* Wed, 11 Feb: student topic presentations
-* Wed, 18 Feb: no class
-* Wed, 25 Feb: Scientific Integrity - Martin Stokhof   
-* Wed, 4 March: no class
-* Wed, 11 March: How to write a MoL thesis (with presentations by recent MoL graduates who are now ILLC PhD candidates) 
-* Wed, 18 March: no class
-* Wed, 25 March: no class 
-
-### 5th Period 
-* Wed, 1 April: Plenary MoL thesis presentations: Logic and Mathematics 
-* Wed, 8 April: Plenary MoL thesis presentations: Logic and Computation  
-* Wed, 15 April: Plenary MoL thesis presentations: Logic and Philosophy 
-* Wed, 22 April: Plenary MoL thesis presentations: Logic and Language
-* Mon, 18 May: Life after ILLC
-* Wed, 20 May:  MoL course presentations for first semester 26/27 (TBC)
+* Wed, 3 Feb: TBA
+* Wed, 10 Feb: TBA 
+* Wed, 17 Feb: TBA 
+* Wed, 24 Feb: Scientific Integrity - Martin Stokhof   (TBC)
+* Wed, 3 March: TBA
+* Wed, 10 March: How to write a MoL thesis (with presentations by recent MoL graduates who are now ILLC PhD candidates) (TBC)
+* Wed, 17 March: TBA
+* Wed, 24 March: TBA
+* Wed, 31 March: no class
+  
+### 5th Period  
+* Wed, 7 April: Plenary MoL thesis presentations: Logic and Mathematics 
+* Wed, 14 April: Plenary MoL thesis presentations: Logic and Computation
+* Wed, 21 April: Plenary MoL thesis presentations: Logic and Philosophy  
+* Wed, 28 April: Plenary MoL thesis presentations: Logic and Language 
 
 [Schedule Plenary Presentations 25/26]({{ "/GradTraj25_26" | relative_url }})
  
