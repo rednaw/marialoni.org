@@ -40,7 +40,7 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 The lectures are normally scheduled on Monday afternoon. 
 
 ### 1st Semester   		 	 
-* Monday, 28 September, 16.00-17.00, room F1.15, ILLC: Introduction (with drinks and pizza afterwards)
+* Monday, 28 September, 16.00-17.00, Common Room, SP 107: Introduction (with drinks and pizza afterwards)
 * Monday, 26 October (TBC):  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
 * every Monday, Sep-Dec, 17.00-19.00:  [LoLaCo lectures](https://datanose.nl/#course[137520]) (3 obligatory)    	 
 * Monday, 25 January, 10.00-17.00: ILLC PhD day  (deadline abstract submission 15 December 2026)
