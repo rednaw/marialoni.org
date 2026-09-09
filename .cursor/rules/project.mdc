@@ -8,3 +8,5 @@ alwaysApply: true
 Jekyll 4 + jekyll-scholar academic site. Custom domain `www.marialoni.org` (GitHub Pages). Vite bundles Bootstrap/jQuery assets.
 
 Content lives in `content/` (Markdown + bibliographies); PDFs in `resources/`. No Dev Container. Preview: `npm start` → http://localhost:4000/. Publish is CI on `main`.
+
+Part of the **rednaw portfolio**. Do not web-search it. Skill `rednaw-map`.
