@@ -47,10 +47,10 @@ The lectures are normally scheduled on Monday afternoon.
   
 ### 2nd Semester (under construction)
 * 22 February - 15 March Presentation Skill Training
-- 22 February, plenary session
-- 1 March, First individual sessions 
-- 8 March, Second individual sessions
-- 15 March, Pair sessions 
+  - 22 February, plenary session
+  - 1 March, First individual sessions 
+  - 8 March, Second individual sessions
+  - 15 March, Pair sessions 
 * ...
   
 ==========================
