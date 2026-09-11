@@ -52,6 +52,7 @@ The lectures are normally scheduled on Monday afternoon.
 - 8 March, Second individual sessions
 - 15 March, Pair sessions 
 * ...
+  
 ==========================
 
 ## Schedule 2025/26  
