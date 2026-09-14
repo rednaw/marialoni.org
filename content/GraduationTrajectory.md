@@ -36,7 +36,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 2 Sep: no class
 * Wed, 9 Sep: no class  
 * Wed, 16 Sep: no class    		 
-* Wed, 23 Sep: Introduction (Maria Aloni) & info on PhD applications            
+* Wed, 23 Sep: Introduction (Maria Aloni) & info on PhD applications (Sophie Nagler & Angelica Hill)           
 * Wed, 30 Sep:  Presentations of possible thesis topics (ILLC researchers)  
 * Wed, 7 Oct:  Presentations of possible thesis topics (ILLC researchers) 
 * Wed, 14 Oct: no class   
