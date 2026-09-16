@@ -32,7 +32,7 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 1. Introduction [September]
 2. DEI/active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/) [October]
 3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2026-2027/zoek-vak/vak/130027) [September-December]: at least 3 lecturers obligatory. The  lectures can be followed in different years although it is advisable to complete the assignment in year 1. Deadline to submit report: 15 December. The report consists of a short summary (max 100 words) of the 3 lectures attended. Submission is via email to m.d.aloni@uva.nl, subject: LoLaCo report.  
-4. ILLC PhD day [January]:  (Poster) presentations given by new and senior ILLC PhD candidates. PhD candidates who want to present their work should submit their abstract via email to phd-illc@uva.nl by 15 December. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation. First-year PhD candidates are further expected to give a short (max 3 minute) one single static slide presentation to introduce themselves to the ILLC community.   
+4. ILLC P(h)D day [January]:  (Poster) presentations given by new and senior ILLC PhD candidates and PostDocs. Researchers who want to present their work should submit their abstract via email to phd-illc@uva.nl by 15 December. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation. First-year PhD candidates are further expected to give a short (max 3 minute) one single static slide presentation to introduce themselves to the ILLC community.   
 5. Presentation skills [March-April]
 6. Academic writing  [May-June]: The Academic Writing training will be offered by senior ILLC researchers representative of different areas of ILLC (in 2026, [Krzysztof R. Apt](https://homepages.cwi.nl/~apt/), [Martin Stokhof](https://stokhof.org) and [Khalil Sima'an](https://sites.google.com/site/khalilsimaaan/home/computational-linguistics)) and will include plenary presentations by the instructors and individual feedback on writing samples submitted in advance by the participants. 
 
@@ -43,7 +43,7 @@ The lectures are normally scheduled on Monday afternoon.
 * Monday, 28 September, 16.00-17.00, Common Room, SP 107: Introduction (with drinks and pizza afterwards)
 * Monday, 26 October (TBC):  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
 * every Monday, Sep-Dec, 17.00-19.00:  [LoLaCo lectures](https://datanose.nl/#course[137520])     	 
-* Monday, 25 January, 10.00-17.00: ILLC PhD day  (deadline abstract submission 15 December 2026)
+* Monday, 25 January, 10.00-17.00: ILLC P(h)D day  (deadline abstract submission 15 December 2026)
   
 ### 2nd Semester (under construction)
 * 22 February - 15 March Presentation Skill Training
