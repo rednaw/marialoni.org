@@ -18,10 +18,12 @@ permalink: ./ILLCPhDTrajectory
   <img src="{{ site.baseurl }}/resources/MoL.png" alt="MoL" width="50%" class="MoL"/>
 </a>
 
-
+<p> </p>
 
 ## Description
 The goal of the trajectory is to provide ILLC PhD candidates with information, training and extra support in their first year. It includes two soft skills courses,  a DEI training and a number of lectures illustrating different research lines within ILLC.  
+
+<p> </p>
 
 ## Organisation
 * Mandatory for 1st year ILLC PhD candidates (excluding CWI);
@@ -43,7 +45,20 @@ The lectures are normally scheduled on Monday afternoon.
 ### 1st Semester   		 	 
 * Monday, 28 September, 16.00-17.00, Common Room, SP 107: Introduction (with drinks and pizza afterwards)
 * Monday, 26 October (TBC):  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
-* every Monday, Sep-Dec, 17.00-19.00:  [LoLaCo lectures](https://datanose.nl/#course[137520])     	 
+* every Monday, Sep-Dec, 17.00-19.00:  [LoLaCo lectures](https://datanose.nl/#course[137520])
+  - 1. September 8, Marieke Schouwstra (LMC)
+  - 2. September 14, Aybuke Ozgun (EPS)
+  - 3. September 21, Fausto Carcassi (LMC)
+  - 4. September 28, Thomas Schindler (FSPL)
+  - 5. October 6, Erman Acar (NLP)
+  - 6. October 13, Martha Lewis (NLP)
+  - 7. October 26, Gregor Behnke (TCS)
+  - 8. November 2, Roberto Cerina (AIC&S)
+  - 9. November 9, Thom van Gessel (TNO)
+  - 10. November 16, Karolina Krzyzanowska (EPS)
+  - 11. November 24, Yurii Khomskii (MCL) [NB: Tue rather than Mon]
+  - 12. November 30, Ulle Endriss (TCS)
+  - 13. December 7, Johan van Benthem (MCL)  	 
 * Monday, 25 January, 10.00-17.00: ILLC P(h)D day  (deadline abstract submission 15 December 2026)
   
 ### 2nd Semester (under construction)
