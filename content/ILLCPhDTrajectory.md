@@ -26,7 +26,7 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 <p> </p>
 
 ## Organisation
-* Mandatory for 1st year ILLC PhD candidates (excluding CWI);
+* Mandatory for employed 1st year ILLC PhD candidates (excluding CWI);
 * Start in September;
 * New PhDs can join all year long. If they miss one (obligatory) session in year 1, they can follow it in year 2;
 * Monthly meetings with a scientific + transferrable skills programme, some of the sessions open to the whole PhD community:
@@ -35,13 +35,13 @@ The goal of the trajectory is to provide ILLC PhD candidates with information, t
 2. DEI/active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/) [October]
 3. [LoLaCo lectures](https://studiegids.uva.nl/xmlpages/page/2026-2027/zoek-vak/vak/130027) [September-December]: at least 3 lecturers obligatory. The  lectures can be followed in different years although it is advisable to complete the assignment in year 1. Deadline to submit report: 15 December. The report consists of a short summary (max 100 words per lecture) of the 3 lectures attended. Submission is via email to m.d.aloni@uva.nl, subject: LoLaCo report.  
 4. ILLC P(h)D day [January]:  (Poster) presentations given by new and senior ILLC PhD candidates and PostDocs. Researchers who want to present their work should submit their abstract via email to phd-illc@uva.nl by 15 December. Abstracts should be max one page long and clearly indicate whether the submission is for a talk or a poster presentation. First-year PhD candidates are further expected to give a short (max 3 minute) one single static slide presentation to introduce themselves to the ILLC community.
-5.  Presentation skills [February-March] You'll learn to use voice and gesture, how to structure a story, and how to present with clarity and confidence. You'll learn by doing, but also by observing others, and giving feedback. You'll get tools and tips, but most of all, you'll get experience.
+5.  Presentation skills [February-March]: you'll learn to use voice and gesture, how to structure a story, and how to present with clarity and confidence. 
   -  The first class is a 2,5 plenary session. It will cover essential presentation skills, like vocal clarity and articulation, body language,       use of gesture and storyline.
   -  The next two 1-hour sessions are individual, where you will be working towards developing two very different kinds of presentations; a 5-        minute pitch for a general public and a 10-minute scientific talk.
   -  During the final 1-hour session you will be working in pairs on either the pitch or the scientific talk.
 
-7. AI literacy training [April]
-8. Academic writing [May-June]: The academic writing training is offered by senior ILLC researchers representative of different research areas (in 2026, [Krzysztof R. Apt](https://homepages.cwi.nl/~apt/), [Martin Stokhof](https://stokhof.org) and [Khalil Sima'an](https://sites.google.com/site/khalilsimaaan/home/computational-linguistics)) and will include plenary presentations by the instructors and individual feedback on writing samples submitted in advance by the participants. 
+6. AI literacy training [April]
+7. Academic writing [May-June]: offered by senior ILLC researchers representative of different research areas (in 2026, [Krzysztof R. Apt](https://homepages.cwi.nl/~apt/), [Martin Stokhof](https://stokhof.org) and [Khalil Sima'an](https://sites.google.com/site/khalilsimaaan/home/computational-linguistics)) and includes plenary presentations by the instructors and individual feedback on writing samples submitted in advance by the participants. 
 
 ## Schedule 2026/27 (subject to change)
 The lectures are normally scheduled on Monday afternoon. 
