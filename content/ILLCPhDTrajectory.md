@@ -48,7 +48,7 @@ The lectures are normally scheduled on Monday afternoon.
 
 ### 1st Semester   		 	 
 * Monday, 28 September, 16.00-17.00, Common Room, SP 107: Introduction (with drinks and pizza afterwards)
-* Monday, 26 October (TBC):  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
+* Monday, 26 October, 14.00-16.00, F3.20, SP 107:  Active bystander training (with supervisors) offered by [Our Bodies, Our Voice](https://www.ourbodies-ourvoice.com/)
 * every Monday, Sep-Dec, 17.00-19.00:  [LoLaCo lectures](https://datanose.nl/#course[137520])
   - September 7, Marieke Schouwstra (LMC)
   - September 14, Aybuke Ozgun (EPS)
