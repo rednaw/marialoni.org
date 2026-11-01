@@ -33,7 +33,7 @@ GEM
     csl-styles (2.0.2)
       csl (~> 2.0)
     csv (3.3.6)
-    date (3.5.1)
+    date (3.6.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
