@@ -45,7 +45,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 ### 2nd Period
 * Wed, 28 Oct: no class
 * Wed, 4 Nov:  no class
-* Wed, 11 Nov: Plenary MoL thesis presentations (students graduating in Semester 1) 
+* Wed, 11 Nov: no class 
 * Wed, 18 Nov: Plenary MoL thesis presentations (students graduating in Semester 1)
 * Wed, 25 Nov: How to write a research proposal (Arianna Betti) [TBC]
 * Wed, 2 Dec:  TBA
