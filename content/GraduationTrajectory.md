@@ -47,7 +47,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 4 Nov:  no class
 * Wed, 11 Nov: no class 
 * Wed, 18 Nov: Plenary MoL thesis presentations (students graduating in Semester 1)
-* Wed, 25 Nov: How to write a research proposal (Arianna Betti) [TBC]
+* Wed, 25 Nov: no class 
 * Wed, 2 Dec:  MoL Sem 2 course presentations
 * Wed, 9 Dec:  MoL Jan project presentations 
 * Wed, 16 Dec: no class (exam week)
@@ -61,8 +61,8 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 ### 4th Period
 * Wed, 3 Feb: TBA
 * Wed, 10 Feb: TBA 
-* Wed, 17 Feb: TBA 
-* Wed, 24 Feb: Scientific Integrity - Martin Stokhof   (TBC)
+* Wed, 17 Feb: How to write a research proposal (Arianna Betti) [TBC] 
+* Wed, 24 Feb: Scientific Integrity - Martin Stokhof    
 * Wed, 3 March: TBA
 * Wed, 10 March: How to write a MoL thesis (with presentations by recent MoL graduates who are now ILLC PhD candidates) (TBC)
 * Wed, 17 March: TBA
