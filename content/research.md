@@ -12,6 +12,10 @@ permalink: ./research
 
 
 ##  Projects
+
+- 2027-2032. [**Cognitive Biases in Reasoning and Interpretation  (NihiLPLUS)**](https://www.marialoni.org/resources/ERC2025_B1_Aloni_short.pdf). ERC-advanced grant.
+
+  
 - Current. [**N&#8709;thing is Logical (NihiL)**](https://projects.illc.uva.nl/nihil/). Since January 2023 funded by the NWO through the Open Competition Grant.
 
   The Nihil project studies cases of divergence between everyday and logical-mathematical reasoning.  The working hypothesis  is that these deviations are a consequence of a tendency in human cognition to neglect empty representations (neglect-zero). We (i) develop logics which formally represent the neglect-zero tendency and rigorously study its impact on interpretation; (ii) explore possible conventionalizations of neglect-zero effects in specific linguistic domains; and (iii) experimentally investigate the impact of neglect-zero in ordinary reasoning and its conjectured suspension for example in the context of a mathematical proof.  
