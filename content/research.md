@@ -13,7 +13,7 @@ permalink: ./research
 
 ##  Projects
 
-- 2027-2032. [**Cognitive Biases in Reasoning and Interpretation  (NihiLPLUS)**](https://www.marialoni.org/resources/ERC2025_B1_Aloni_short.pdf). ERC-advanced grant.
+- 2027-2032. [**Cognitive Biases in Reasoning and Interpretation  (NihiLPLUS)**](https://www.marialoni.org/resources/ERC2025_B1_Aloni_short.pdf). ERC advanced grant.
 
   
 - Current. [**N&#8709;thing is Logical (NihiL)**](https://projects.illc.uva.nl/nihil/). Since January 2023 funded by the NWO through the Open Competition Grant.
